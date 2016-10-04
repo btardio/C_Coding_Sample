@@ -1,0 +1,4681 @@
+(0, 0) (10, 3)
+switchcaseslope = FALSE
+(0, 0) (10, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 0.000000 - 0 ) ) + 0 
+point: 2, 0 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 0.000000 - 0 ) ) + 0 
+point: 3, 0 actual: 0.000000, 0.000000
+point[4]:point: 4, 1 actual: 3.333333, 1.000000
+point[5]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 3.333333 - 0 ) ) + 0 
+point: 5, 1 actual: 3.333333, 1.000000
+point[6]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 3.333333 - 0 ) ) + 0 
+point: 6, 1 actual: 3.333333, 1.000000
+point[7]:point: 7, 2 actual: 6.666667, 2.000000
+point[8]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 6.666667 - 0 ) ) + 0 
+point: 8, 2 actual: 6.666667, 2.000000
+point[9]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 6.666667 - 0 ) ) + 0 
+point: 9, 2 actual: 6.666667, 2.000000
+point[10]:### ERROR checkplotlinefloat ### equation: ( 0.300000 * ( 6.666667 - 0 ) ) + 0 
+point: 10, 2 actual: 6.666667, 2.000000
+(0, 0) (0, 0)
+switchcaseslope = TRUE
+(0, 0) (0, 0)
+point[0]:point: 0, 0 actual: 0.000000, -nan
+(0, 0) (0, 1)
+switchcaseslope = TRUE
+(0, 0) (1, 0)
+point[0]:point: 0, 0 actual: 0.000000, -nan
+point[1]:point: 0, 1 actual: 0.000000, -nan
+(0, 0) (0, 2)
+switchcaseslope = TRUE
+(0, 0) (2, 0)
+point[0]:point: 0, 0 actual: 0.000000, -nan
+point[1]:point: 0, 1 actual: 0.000000, -nan
+point[2]:point: 0, 2 actual: 0.000000, -nan
+(0, 0) (0, 3)
+switchcaseslope = TRUE
+(0, 0) (3, 0)
+point[0]:point: 0, 0 actual: 0.000000, -nan
+point[1]:point: 0, 1 actual: 0.000000, -nan
+point[2]:point: 0, 2 actual: 0.000000, -nan
+point[3]:point: 0, 3 actual: 0.000000, -nan
+(0, 0) (0, 4)
+switchcaseslope = TRUE
+(0, 0) (4, 0)
+point[0]:point: 0, 0 actual: 0.000000, -nan
+point[1]:point: 0, 1 actual: 0.000000, -nan
+point[2]:point: 0, 2 actual: 0.000000, -nan
+point[3]:point: 0, 3 actual: 0.000000, -nan
+point[4]:point: 0, 4 actual: 0.000000, -nan
+(0, 0) (1, 0)
+switchcaseslope = FALSE
+(0, 0) (1, 0)
+point[0]:point: 0, 0 actual: -nan, 0.000000
+point[1]:point: 1, 0 actual: -nan, 0.000000
+(0, 0) (1, 1)
+switchcaseslope = TRUE
+(0, 0) (1, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+(0, 0) (1, 2)
+switchcaseslope = TRUE
+(0, 0) (2, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+(0, 0) (1, 3)
+switchcaseslope = TRUE
+(0, 0) (3, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 0 ) ) + 0 
+point: 0, 2 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 0 ) ) + 0 
+point: 0, 3 actual: 0.000000, 0.000000
+(0, 0) (1, 4)
+switchcaseslope = TRUE
+(0, 0) (4, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 0.000000 - 0 ) ) + 0 
+point: 0, 2 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 0.000000 - 0 ) ) + 0 
+point: 0, 3 actual: 0.000000, 0.000000
+point[4]:point: 1, 4 actual: 1.000000, 4.000000
+(0, 0) (2, 0)
+switchcaseslope = FALSE
+(0, 0) (2, 0)
+point[0]:point: 0, 0 actual: -nan, 0.000000
+point[1]:point: 1, 0 actual: -nan, 0.000000
+point[2]:point: 2, 0 actual: -nan, 0.000000
+(0, 0) (2, 1)
+switchcaseslope = FALSE
+(0, 0) (2, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+(0, 0) (2, 2)
+switchcaseslope = TRUE
+(0, 0) (2, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(0, 0) (2, 3)
+switchcaseslope = TRUE
+(0, 0) (3, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 1.000000 - 0 ) ) + 0 
+point: 1, 3 actual: 1.000000, 1.500000
+(0, 0) (2, 4)
+switchcaseslope = TRUE
+(0, 0) (4, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+point[3]:point: 1, 3 actual: 1.000000, 2.000000
+point[4]:point: 2, 4 actual: 2.000000, 4.000000
+(0, 0) (3, 0)
+switchcaseslope = FALSE
+(0, 0) (3, 0)
+point[0]:point: 0, 0 actual: -nan, 0.000000
+point[1]:point: 1, 0 actual: -nan, 0.000000
+point[2]:point: 2, 0 actual: -nan, 0.000000
+point[3]:point: 3, 0 actual: -nan, 0.000000
+(0, 0) (3, 1)
+switchcaseslope = FALSE
+(0, 0) (3, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 0 
+point: 2, 0 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 0 
+point: 3, 0 actual: 0.000000, 0.000000
+(0, 0) (3, 2)
+switchcaseslope = FALSE
+(0, 0) (3, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 0 ) ) + 0 
+point: 3, 1 actual: 1.500000, 1.000000
+(0, 0) (3, 3)
+switchcaseslope = TRUE
+(0, 0) (3, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(0, 0) (3, 4)
+switchcaseslope = TRUE
+(0, 0) (4, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.333333
+point[3]:point: 2, 3 actual: 2.000000, 2.666667
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(0, 0) (4, 0)
+switchcaseslope = FALSE
+(0, 0) (4, 0)
+point[0]:point: 0, 0 actual: -nan, 0.000000
+point[1]:point: 1, 0 actual: -nan, 0.000000
+point[2]:point: 2, 0 actual: -nan, 0.000000
+point[3]:point: 3, 0 actual: -nan, 0.000000
+point[4]:point: 4, 0 actual: -nan, 0.000000
+(0, 0) (4, 1)
+switchcaseslope = FALSE
+(0, 0) (4, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 0 
+point: 2, 0 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 0 
+point: 3, 0 actual: 0.000000, 0.000000
+point[4]:point: 4, 1 actual: 4.000000, 1.000000
+(0, 0) (4, 2)
+switchcaseslope = FALSE
+(0, 0) (4, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+point[3]:point: 3, 1 actual: 2.000000, 1.000000
+point[4]:point: 4, 2 actual: 4.000000, 2.000000
+(0, 0) (4, 3)
+switchcaseslope = FALSE
+(0, 0) (4, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.333333, 1.000000
+point[3]:point: 3, 2 actual: 2.666667, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(0, 0) (4, 4)
+switchcaseslope = TRUE
+(0, 0) (4, 4)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(0, 1) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (0, 0)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+(0, 1) (0, 1)
+switchcaseslope = TRUE
+(1, 0) (1, 0)
+point[0]:point: 0, 1 actual: 0.000000, -nan
+(0, 1) (0, 2)
+switchcaseslope = TRUE
+(1, 0) (2, 0)
+point[0]:point: 0, 1 actual: 0.000000, -nan
+point[1]:point: 0, 2 actual: 0.000000, -nan
+(0, 1) (0, 3)
+switchcaseslope = TRUE
+(1, 0) (3, 0)
+point[0]:point: 0, 1 actual: 0.000000, -nan
+point[1]:point: 0, 2 actual: 0.000000, -nan
+point[2]:point: 0, 3 actual: 0.000000, -nan
+(0, 1) (0, 4)
+switchcaseslope = TRUE
+(1, 0) (4, 0)
+point[0]:point: 0, 1 actual: 0.000000, -nan
+point[1]:point: 0, 2 actual: 0.000000, -nan
+point[2]:point: 0, 3 actual: 0.000000, -nan
+point[3]:point: 0, 4 actual: 0.000000, -nan
+(0, 1) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (1, 1)
+point[0]:point: 0, 0 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+(0, 1) (1, 1)
+switchcaseslope = FALSE
+(0, 1) (1, 1)
+point[0]:point: 0, 1 actual: -nan, 1.000000
+point[1]:point: 1, 1 actual: -nan, 1.000000
+(0, 1) (1, 2)
+switchcaseslope = TRUE
+(1, 0) (2, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+(0, 1) (1, 3)
+switchcaseslope = TRUE
+(1, 0) (3, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:point: 1, 3 actual: 1.000000, 3.000000
+(0, 1) (1, 4)
+switchcaseslope = TRUE
+(1, 0) (4, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 0 ) ) + 1 
+point: 0, 3 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 0 ) ) + 1 
+point: 0, 4 actual: 0.000000, 1.000000
+(0, 1) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (2, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 0 ) ) + 1 
+point: 0, 0 actual: 2.000000, 0.000000
+point[1]:point: 1, 0 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 1 
+point: 2, 1 actual: 0.000000, 1.000000
+(0, 1) (2, 1)
+switchcaseslope = FALSE
+(0, 1) (2, 1)
+point[0]:point: 0, 1 actual: -nan, 1.000000
+point[1]:point: 1, 1 actual: -nan, 1.000000
+point[2]:point: 2, 1 actual: -nan, 1.000000
+(0, 1) (2, 2)
+switchcaseslope = FALSE
+(0, 1) (2, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(0, 1) (2, 3)
+switchcaseslope = TRUE
+(1, 0) (3, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(0, 1) (2, 4)
+switchcaseslope = TRUE
+(1, 0) (4, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:point: 1, 3 actual: 1.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 1.000000 - 0 ) ) + 1 
+point: 1, 4 actual: 1.000000, 2.500000
+(0, 1) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 1 
+point: 0, 0 actual: 3.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 1 
+point: 1, 0 actual: 3.000000, 0.000000
+point[2]:point: 2, 0 actual: 3.000000, 0.000000
+point[3]:point: 3, 0 actual: 3.000000, 0.000000
+(0, 1) (3, 1)
+switchcaseslope = FALSE
+(0, 1) (3, 1)
+point[0]:point: 0, 1 actual: -nan, 1.000000
+point[1]:point: 1, 1 actual: -nan, 1.000000
+point[2]:point: 2, 1 actual: -nan, 1.000000
+point[3]:point: 3, 1 actual: -nan, 1.000000
+(0, 1) (3, 2)
+switchcaseslope = FALSE
+(0, 1) (3, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 1 
+point: 2, 1 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 1 
+point: 3, 1 actual: 0.000000, 1.000000
+(0, 1) (3, 3)
+switchcaseslope = FALSE
+(0, 1) (3, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 0 ) ) + 1 
+point: 3, 2 actual: 1.500000, 2.000000
+(0, 1) (3, 4)
+switchcaseslope = TRUE
+(1, 0) (4, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 4 actual: 3.000000, 4.000000
+(0, 1) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 1 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 1 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 1 
+point: 2, 0 actual: 4.000000, 0.000000
+point[3]:point: 3, 0 actual: 4.000000, 0.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 0 ) ) + 1 
+point: 4, 1 actual: 0.000000, 1.000000
+(0, 1) (4, 1)
+switchcaseslope = FALSE
+(0, 1) (4, 1)
+point[0]:point: 0, 1 actual: -nan, 1.000000
+point[1]:point: 1, 1 actual: -nan, 1.000000
+point[2]:point: 2, 1 actual: -nan, 1.000000
+point[3]:point: 3, 1 actual: -nan, 1.000000
+point[4]:point: 4, 1 actual: -nan, 1.000000
+(0, 1) (4, 2)
+switchcaseslope = FALSE
+(0, 1) (4, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 1 
+point: 2, 1 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 1 
+point: 3, 1 actual: 0.000000, 1.000000
+point[4]:point: 4, 2 actual: 4.000000, 2.000000
+(0, 1) (4, 3)
+switchcaseslope = FALSE
+(0, 1) (4, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 2 actual: 2.000000, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(0, 1) (4, 4)
+switchcaseslope = FALSE
+(0, 1) (4, 4)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.333333, 2.000000
+point[3]:point: 3, 3 actual: 2.666667, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(0, 2) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (0, 0)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+(0, 2) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (0, 1)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+(0, 2) (0, 2)
+switchcaseslope = TRUE
+(2, 0) (2, 0)
+point[0]:point: 0, 2 actual: 0.000000, -nan
+(0, 2) (0, 3)
+switchcaseslope = TRUE
+(2, 0) (3, 0)
+point[0]:point: 0, 2 actual: 0.000000, -nan
+point[1]:point: 0, 3 actual: 0.000000, -nan
+(0, 2) (0, 4)
+switchcaseslope = TRUE
+(2, 0) (4, 0)
+point[0]:point: 0, 2 actual: 0.000000, -nan
+point[1]:point: 0, 3 actual: 0.000000, -nan
+point[2]:point: 0, 4 actual: 0.000000, -nan
+(0, 2) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 0 ) ) + 2 
+point: 0, 0 actual: 0.000000, 2.000000
+point[1]:point: 0, 1 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 0 ) ) + 2 
+point: 1, 2 actual: 1.000000, 0.000000
+(0, 2) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (2, 1)
+point[0]:point: 0, 1 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+(0, 2) (1, 2)
+switchcaseslope = FALSE
+(0, 2) (1, 2)
+point[0]:point: 0, 2 actual: -nan, 2.000000
+point[1]:point: 1, 2 actual: -nan, 2.000000
+(0, 2) (1, 3)
+switchcaseslope = TRUE
+(2, 0) (3, 1)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+(0, 2) (1, 4)
+switchcaseslope = TRUE
+(2, 0) (4, 1)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 0, 3 actual: 0.000000, 2.000000
+point[2]:point: 1, 4 actual: 1.000000, 4.000000
+(0, 2) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 2 
+point: 0, 0 actual: 0.000000, 2.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 0 ) ) + 2 
+point: 2, 2 actual: 2.000000, 0.000000
+(0, 2) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 0 ) ) + 2 
+point: 0, 1 actual: 2.000000, 1.000000
+point[1]:point: 1, 1 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 2 
+point: 2, 2 actual: 0.000000, 2.000000
+(0, 2) (2, 2)
+switchcaseslope = FALSE
+(0, 2) (2, 2)
+point[0]:point: 0, 2 actual: -nan, 2.000000
+point[1]:point: 1, 2 actual: -nan, 2.000000
+point[2]:point: 2, 2 actual: -nan, 2.000000
+(0, 2) (2, 3)
+switchcaseslope = FALSE
+(0, 2) (2, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(0, 2) (2, 4)
+switchcaseslope = TRUE
+(2, 0) (4, 2)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(0, 2) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 2 
+point: 0, 0 actual: 3.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 2 
+point: 1, 0 actual: 3.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 0 ) ) + 2 
+point: 3, 1 actual: 1.500000, 1.000000
+(0, 2) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 2 
+point: 0, 1 actual: 3.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 2 
+point: 1, 1 actual: 3.000000, 1.000000
+point[2]:point: 2, 1 actual: 3.000000, 1.000000
+point[3]:point: 3, 1 actual: 3.000000, 1.000000
+(0, 2) (3, 2)
+switchcaseslope = FALSE
+(0, 2) (3, 2)
+point[0]:point: 0, 2 actual: -nan, 2.000000
+point[1]:point: 1, 2 actual: -nan, 2.000000
+point[2]:point: 2, 2 actual: -nan, 2.000000
+point[3]:point: 3, 2 actual: -nan, 2.000000
+(0, 2) (3, 3)
+switchcaseslope = FALSE
+(0, 2) (3, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 2 
+point: 2, 2 actual: 0.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 2 
+point: 3, 2 actual: 0.000000, 2.000000
+(0, 2) (3, 4)
+switchcaseslope = FALSE
+(0, 2) (3, 4)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 1.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 0 ) ) + 2 
+point: 3, 3 actual: 1.500000, 3.000000
+(0, 2) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 2 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 2 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+point[3]:point: 3, 1 actual: 2.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 2 
+point: 4, 2 actual: 0.000000, 2.000000
+(0, 2) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 2 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 2 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 2 
+point: 2, 1 actual: 4.000000, 1.000000
+point[3]:point: 3, 1 actual: 4.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 0 ) ) + 2 
+point: 4, 2 actual: 0.000000, 2.000000
+(0, 2) (4, 2)
+switchcaseslope = FALSE
+(0, 2) (4, 2)
+point[0]:point: 0, 2 actual: -nan, 2.000000
+point[1]:point: 1, 2 actual: -nan, 2.000000
+point[2]:point: 2, 2 actual: -nan, 2.000000
+point[3]:point: 3, 2 actual: -nan, 2.000000
+point[4]:point: 4, 2 actual: -nan, 2.000000
+(0, 2) (4, 3)
+switchcaseslope = FALSE
+(0, 2) (4, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 2 
+point: 2, 2 actual: 0.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 2 
+point: 3, 2 actual: 0.000000, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(0, 2) (4, 4)
+switchcaseslope = FALSE
+(0, 2) (4, 4)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 3 actual: 2.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(0, 3) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (0, 0)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+(0, 3) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (0, 1)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+(0, 3) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (0, 2)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+(0, 3) (0, 3)
+switchcaseslope = TRUE
+(3, 0) (3, 0)
+point[0]:point: 0, 3 actual: 0.000000, -nan
+(0, 3) (0, 4)
+switchcaseslope = TRUE
+(3, 0) (4, 0)
+point[0]:point: 0, 3 actual: 0.000000, -nan
+point[1]:point: 0, 4 actual: 0.000000, -nan
+(0, 3) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 0.000000, 3.000000
+point[2]:point: 0, 2 actual: 0.000000, 3.000000
+point[3]:point: 0, 3 actual: 0.000000, 3.000000
+(0, 3) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 0.000000, 3.000000
+point[1]:point: 0, 2 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 0 ) ) + 3 
+point: 1, 3 actual: 1.000000, 1.000000
+(0, 3) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (3, 1)
+point[0]:point: 0, 2 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 1.000000, 2.000000
+(0, 3) (1, 3)
+switchcaseslope = FALSE
+(0, 3) (1, 3)
+point[0]:point: 0, 3 actual: -nan, 3.000000
+point[1]:point: 1, 3 actual: -nan, 3.000000
+(0, 3) (1, 4)
+switchcaseslope = TRUE
+(3, 0) (4, 1)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 4 actual: 1.000000, 4.000000
+(0, 3) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 0.000000, 3.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 0 ) ) + 3 
+point: 1, 3 actual: 1.000000, 1.500000
+(0, 3) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 0.000000, 3.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 0 ) ) + 3 
+point: 2, 3 actual: 2.000000, 1.000000
+(0, 3) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 0 ) ) + 3 
+point: 0, 2 actual: 2.000000, 2.000000
+point[1]:point: 1, 2 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 3 
+point: 2, 3 actual: 0.000000, 3.000000
+(0, 3) (2, 3)
+switchcaseslope = FALSE
+(0, 3) (2, 3)
+point[0]:point: 0, 3 actual: -nan, 3.000000
+point[1]:point: 1, 3 actual: -nan, 3.000000
+point[2]:point: 2, 3 actual: -nan, 3.000000
+(0, 3) (2, 4)
+switchcaseslope = FALSE
+(0, 3) (2, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(0, 3) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 3 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:point: 1, 1 actual: 1.000000, 2.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 0 ) ) + 3 
+point: 3, 3 actual: 3.000000, 0.000000
+(0, 3) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 3.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 3 
+point: 1, 1 actual: 3.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 0 ) ) + 3 
+point: 3, 2 actual: 1.500000, 2.000000
+(0, 3) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 3 
+point: 0, 2 actual: 3.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 3 
+point: 1, 2 actual: 3.000000, 2.000000
+point[2]:point: 2, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 2 actual: 3.000000, 2.000000
+(0, 3) (3, 3)
+switchcaseslope = FALSE
+(0, 3) (3, 3)
+point[0]:point: 0, 3 actual: -nan, 3.000000
+point[1]:point: 1, 3 actual: -nan, 3.000000
+point[2]:point: 2, 3 actual: -nan, 3.000000
+point[3]:point: 3, 3 actual: -nan, 3.000000
+(0, 3) (3, 4)
+switchcaseslope = FALSE
+(0, 3) (3, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 3 
+point: 2, 3 actual: 0.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 0 ) ) + 3 
+point: 3, 3 actual: 0.000000, 3.000000
+(0, 3) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 0 ) ) + 3 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 0 ) ) + 3 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.666667, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 1.333333 - 0 ) ) + 3 
+point: 3, 2 actual: 1.333333, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 0.000000 - 0 ) ) + 3 
+point: 4, 3 actual: 0.000000, 3.000000
+(0, 3) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 3 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 3 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 2 actual: 2.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 3 
+point: 4, 3 actual: 0.000000, 3.000000
+(0, 3) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 3 
+point: 0, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 3 
+point: 1, 2 actual: 4.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 3 
+point: 2, 2 actual: 4.000000, 2.000000
+point[3]:point: 3, 2 actual: 4.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 0 ) ) + 3 
+point: 4, 3 actual: 0.000000, 3.000000
+(0, 3) (4, 3)
+switchcaseslope = FALSE
+(0, 3) (4, 3)
+point[0]:point: 0, 3 actual: -nan, 3.000000
+point[1]:point: 1, 3 actual: -nan, 3.000000
+point[2]:point: 2, 3 actual: -nan, 3.000000
+point[3]:point: 3, 3 actual: -nan, 3.000000
+point[4]:point: 4, 3 actual: -nan, 3.000000
+(0, 3) (4, 4)
+switchcaseslope = FALSE
+(0, 3) (4, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 3 
+point: 2, 3 actual: 0.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 0 ) ) + 3 
+point: 3, 3 actual: 0.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(0, 4) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 4) (0, 0)
+point[0]:point: 0, 4 actual: 0.000000, 4.000000
+(0, 4) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 4) (0, 1)
+point[0]:point: 0, 4 actual: 0.000000, 4.000000
+(0, 4) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 4) (0, 2)
+point[0]:point: 0, 4 actual: 0.000000, 4.000000
+(0, 4) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 4) (0, 3)
+point[0]:point: 0, 4 actual: 0.000000, 4.000000
+(0, 4) (0, 4)
+switchcaseslope = TRUE
+(4, 0) (4, 0)
+point[0]:point: 0, 4 actual: 0.000000, -nan
+(0, 4) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 0.000000, 4.000000
+point[3]:point: 0, 3 actual: 0.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 0 ) ) + 4 
+point: 1, 4 actual: 1.000000, 0.000000
+(0, 4) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 0.000000, 4.000000
+point[2]:point: 0, 3 actual: 0.000000, 4.000000
+point[3]:point: 0, 4 actual: 0.000000, 4.000000
+(0, 4) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 0.000000, 4.000000
+point[1]:point: 0, 3 actual: 0.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 0 ) ) + 4 
+point: 1, 4 actual: 1.000000, 2.000000
+(0, 4) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 0) (4, 1)
+point[0]:point: 0, 3 actual: 0.000000, 4.000000
+point[1]:point: 1, 4 actual: 1.000000, 3.000000
+(0, 4) (1, 4)
+switchcaseslope = FALSE
+(0, 4) (1, 4)
+point[0]:point: 0, 4 actual: -nan, 4.000000
+point[1]:point: 1, 4 actual: -nan, 4.000000
+(0, 4) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+point[3]:point: 1, 3 actual: 1.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 0 ) ) + 4 
+point: 2, 4 actual: 2.000000, 0.000000
+(0, 4) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 0.000000, 4.000000
+point[2]:point: 1, 3 actual: 1.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 0 ) ) + 4 
+point: 1, 4 actual: 1.000000, 2.500000
+(0, 4) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 0.000000, 4.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 0 ) ) + 4 
+point: 2, 4 actual: 2.000000, 2.000000
+(0, 4) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 0 ) ) + 4 
+point: 0, 3 actual: 2.000000, 3.000000
+point[1]:point: 1, 3 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 4 
+point: 2, 4 actual: 0.000000, 4.000000
+(0, 4) (2, 4)
+switchcaseslope = FALSE
+(0, 4) (2, 4)
+point[0]:point: 0, 4 actual: -nan, 4.000000
+point[1]:point: 1, 4 actual: -nan, 4.000000
+point[2]:point: 2, 4 actual: -nan, 4.000000
+(0, 4) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.666667
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 2.000000 - 0 ) ) + 4 
+point: 2, 3 actual: 2.000000, 1.333333
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 3.000000 - 0 ) ) + 4 
+point: 3, 4 actual: 3.000000, 0.000000
+(0, 4) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:point: 1, 2 actual: 1.000000, 3.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 0 ) ) + 4 
+point: 3, 4 actual: 3.000000, 1.000000
+(0, 4) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 3.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 0 ) ) + 4 
+point: 1, 2 actual: 3.000000, 2.000000
+point[2]:point: 2, 3 actual: 1.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 0 ) ) + 4 
+point: 3, 3 actual: 1.500000, 3.000000
+(0, 4) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 4 
+point: 0, 3 actual: 3.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 0 ) ) + 4 
+point: 1, 3 actual: 3.000000, 3.000000
+point[2]:point: 2, 3 actual: 3.000000, 3.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(0, 4) (3, 4)
+switchcaseslope = FALSE
+(0, 4) (3, 4)
+point[0]:point: 0, 4 actual: -nan, 4.000000
+point[1]:point: 1, 4 actual: -nan, 4.000000
+point[2]:point: 2, 4 actual: -nan, 4.000000
+point[3]:point: 3, 4 actual: -nan, 4.000000
+(0, 4) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 0 ) ) + 4 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 0 ) ) + 4 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 0 ) ) + 4 
+point: 3, 3 actual: 3.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 0 ) ) + 4 
+point: 4, 4 actual: 4.000000, 0.000000
+(0, 4) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 0 ) ) + 4 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 0 ) ) + 4 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.666667, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 1.333333 - 0 ) ) + 4 
+point: 3, 3 actual: 1.333333, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 0.000000 - 0 ) ) + 4 
+point: 4, 4 actual: 0.000000, 4.000000
+(0, 4) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 4 
+point: 0, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 0 ) ) + 4 
+point: 1, 2 actual: 4.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 3 actual: 2.000000, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 0 ) ) + 4 
+point: 4, 4 actual: 0.000000, 4.000000
+(0, 4) (4, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 4 
+point: 0, 3 actual: 4.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 4 
+point: 1, 3 actual: 4.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 0 ) ) + 4 
+point: 2, 3 actual: 4.000000, 3.000000
+point[3]:point: 3, 3 actual: 4.000000, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 0 ) ) + 4 
+point: 4, 4 actual: 0.000000, 4.000000
+(0, 4) (4, 4)
+switchcaseslope = FALSE
+(0, 4) (4, 4)
+point[0]:point: 0, 4 actual: -nan, 4.000000
+point[1]:point: 1, 4 actual: -nan, 4.000000
+point[2]:point: 2, 4 actual: -nan, 4.000000
+point[3]:point: 3, 4 actual: -nan, 4.000000
+point[4]:point: 4, 4 actual: -nan, 4.000000
+(1, 0) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (0, 0)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+(1, 0) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (1, 1)
+point[0]:point: 0, 0 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+(1, 0) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 0 actual: 0.000000, 2.000000
+point[1]:point: 0, 1 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 2 actual: 1.000000, 0.000000
+(1, 0) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 1 actual: 0.000000, 3.000000
+point[2]:point: 0, 2 actual: 0.000000, 3.000000
+point[3]:point: 0, 3 actual: 0.000000, 3.000000
+(1, 0) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 0.000000 - 1 ) ) + 0 
+point: 0, 2 actual: 0.000000, 4.000000
+point[3]:point: 0, 3 actual: 0.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 4 actual: 1.000000, 0.000000
+(1, 0) (1, 0)
+switchcaseslope = TRUE
+(0, 1) (0, 1)
+point[0]:point: 1, 0 actual: 1.000000, -nan
+(1, 0) (1, 1)
+switchcaseslope = TRUE
+(0, 1) (1, 1)
+point[0]:point: 1, 0 actual: 1.000000, -nan
+point[1]:point: 1, 1 actual: 1.000000, -nan
+(1, 0) (1, 2)
+switchcaseslope = TRUE
+(0, 1) (2, 1)
+point[0]:point: 1, 0 actual: 1.000000, -nan
+point[1]:point: 1, 1 actual: 1.000000, -nan
+point[2]:point: 1, 2 actual: 1.000000, -nan
+(1, 0) (1, 3)
+switchcaseslope = TRUE
+(0, 1) (3, 1)
+point[0]:point: 1, 0 actual: 1.000000, -nan
+point[1]:point: 1, 1 actual: 1.000000, -nan
+point[2]:point: 1, 2 actual: 1.000000, -nan
+point[3]:point: 1, 3 actual: 1.000000, -nan
+(1, 0) (1, 4)
+switchcaseslope = TRUE
+(0, 1) (4, 1)
+point[0]:point: 1, 0 actual: 1.000000, -nan
+point[1]:point: 1, 1 actual: 1.000000, -nan
+point[2]:point: 1, 2 actual: 1.000000, -nan
+point[3]:point: 1, 3 actual: 1.000000, -nan
+point[4]:point: 1, 4 actual: 1.000000, -nan
+(1, 0) (2, 0)
+switchcaseslope = FALSE
+(1, 0) (2, 0)
+point[0]:point: 1, 0 actual: -nan, 0.000000
+point[1]:point: 2, 0 actual: -nan, 0.000000
+(1, 0) (2, 1)
+switchcaseslope = TRUE
+(0, 1) (1, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+(1, 0) (2, 2)
+switchcaseslope = TRUE
+(0, 1) (2, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(1, 0) (2, 3)
+switchcaseslope = TRUE
+(0, 1) (3, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 2 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 3 actual: 1.000000, 0.000000
+(1, 0) (2, 4)
+switchcaseslope = TRUE
+(0, 1) (4, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 2 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 1.000000 - 1 ) ) + 0 
+point: 1, 3 actual: 1.000000, 0.000000
+point[4]:point: 2, 4 actual: 2.000000, 4.000000
+(1, 0) (3, 0)
+switchcaseslope = FALSE
+(1, 0) (3, 0)
+point[0]:point: 1, 0 actual: -nan, 0.000000
+point[1]:point: 2, 0 actual: -nan, 0.000000
+point[2]:point: 3, 0 actual: -nan, 0.000000
+(1, 0) (3, 1)
+switchcaseslope = FALSE
+(1, 0) (3, 1)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:point: 3, 1 actual: 3.000000, 1.000000
+(1, 0) (3, 2)
+switchcaseslope = TRUE
+(0, 1) (2, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(1, 0) (3, 3)
+switchcaseslope = TRUE
+(0, 1) (3, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 2.000000 - 1 ) ) + 0 
+point: 2, 3 actual: 2.000000, 1.500000
+(1, 0) (3, 4)
+switchcaseslope = TRUE
+(0, 1) (4, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 2, 3 actual: 2.000000, 2.000000
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(1, 0) (4, 0)
+switchcaseslope = FALSE
+(1, 0) (4, 0)
+point[0]:point: 1, 0 actual: -nan, 0.000000
+point[1]:point: 2, 0 actual: -nan, 0.000000
+point[2]:point: 3, 0 actual: -nan, 0.000000
+point[3]:point: 4, 0 actual: -nan, 0.000000
+(1, 0) (4, 1)
+switchcaseslope = FALSE
+(1, 0) (4, 1)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 0 
+point: 3, 0 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 0 
+point: 4, 0 actual: 1.000000, 0.000000
+(1, 0) (4, 2)
+switchcaseslope = FALSE
+(1, 0) (4, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:point: 3, 1 actual: 2.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 1 ) ) + 0 
+point: 4, 1 actual: 2.500000, 1.000000
+(1, 0) (4, 3)
+switchcaseslope = TRUE
+(0, 1) (3, 4)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 4, 3 actual: 4.000000, 3.000000
+(1, 0) (4, 4)
+switchcaseslope = TRUE
+(0, 1) (4, 4)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.333333
+point[3]:point: 3, 3 actual: 3.000000, 2.666667
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(1, 1) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (1, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+(1, 1) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (1, 0)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+(1, 1) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (2, 1)
+point[0]:point: 0, 1 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+(1, 1) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 1 ) ) + 1 
+point: 0, 1 actual: 0.000000, 3.000000
+point[1]:point: 0, 2 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 1 
+point: 1, 3 actual: 1.000000, 1.000000
+(1, 1) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 1 ) ) + 1 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 0.000000 - 1 ) ) + 1 
+point: 0, 2 actual: 0.000000, 4.000000
+point[2]:point: 0, 3 actual: 0.000000, 4.000000
+point[3]:point: 0, 4 actual: 0.000000, 4.000000
+(1, 1) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (1, 0)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+(1, 1) (1, 1)
+switchcaseslope = TRUE
+(1, 1) (1, 1)
+point[0]:point: 1, 1 actual: 1.000000, -nan
+(1, 1) (1, 2)
+switchcaseslope = TRUE
+(1, 1) (2, 1)
+point[0]:point: 1, 1 actual: 1.000000, -nan
+point[1]:point: 1, 2 actual: 1.000000, -nan
+(1, 1) (1, 3)
+switchcaseslope = TRUE
+(1, 1) (3, 1)
+point[0]:point: 1, 1 actual: 1.000000, -nan
+point[1]:point: 1, 2 actual: 1.000000, -nan
+point[2]:point: 1, 3 actual: 1.000000, -nan
+(1, 1) (1, 4)
+switchcaseslope = TRUE
+(1, 1) (4, 1)
+point[0]:point: 1, 1 actual: 1.000000, -nan
+point[1]:point: 1, 2 actual: 1.000000, -nan
+point[2]:point: 1, 3 actual: 1.000000, -nan
+point[3]:point: 1, 4 actual: 1.000000, -nan
+(1, 1) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (1, 2)
+point[0]:point: 1, 0 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+(1, 1) (2, 1)
+switchcaseslope = FALSE
+(1, 1) (2, 1)
+point[0]:point: 1, 1 actual: -nan, 1.000000
+point[1]:point: 2, 1 actual: -nan, 1.000000
+(1, 1) (2, 2)
+switchcaseslope = TRUE
+(1, 1) (2, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+(1, 1) (2, 3)
+switchcaseslope = TRUE
+(1, 1) (3, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(1, 1) (2, 4)
+switchcaseslope = TRUE
+(1, 1) (4, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 1 ) ) + 1 
+point: 1, 3 actual: 1.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 1 ) ) + 1 
+point: 1, 4 actual: 1.000000, 1.000000
+(1, 1) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 1 ) ) + 1 
+point: 1, 0 actual: 3.000000, 0.000000
+point[1]:point: 2, 0 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 1 ) ) + 1 
+point: 3, 1 actual: 1.000000, 1.000000
+(1, 1) (3, 1)
+switchcaseslope = FALSE
+(1, 1) (3, 1)
+point[0]:point: 1, 1 actual: -nan, 1.000000
+point[1]:point: 2, 1 actual: -nan, 1.000000
+point[2]:point: 3, 1 actual: -nan, 1.000000
+(1, 1) (3, 2)
+switchcaseslope = FALSE
+(1, 1) (3, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(1, 1) (3, 3)
+switchcaseslope = TRUE
+(1, 1) (3, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(1, 1) (3, 4)
+switchcaseslope = TRUE
+(1, 1) (4, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 2.000000 - 1 ) ) + 1 
+point: 2, 4 actual: 2.000000, 2.500000
+(1, 1) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 1 
+point: 1, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 1 
+point: 2, 0 actual: 4.000000, 0.000000
+point[2]:point: 3, 0 actual: 4.000000, 0.000000
+point[3]:point: 4, 0 actual: 4.000000, 0.000000
+(1, 1) (4, 1)
+switchcaseslope = FALSE
+(1, 1) (4, 1)
+point[0]:point: 1, 1 actual: -nan, 1.000000
+point[1]:point: 2, 1 actual: -nan, 1.000000
+point[2]:point: 3, 1 actual: -nan, 1.000000
+point[3]:point: 4, 1 actual: -nan, 1.000000
+(1, 1) (4, 2)
+switchcaseslope = FALSE
+(1, 1) (4, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 1 
+point: 3, 1 actual: 1.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 1 
+point: 4, 1 actual: 1.000000, 1.000000
+(1, 1) (4, 3)
+switchcaseslope = FALSE
+(1, 1) (4, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:point: 3, 2 actual: 2.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 1 ) ) + 1 
+point: 4, 2 actual: 2.500000, 2.000000
+(1, 1) (4, 4)
+switchcaseslope = TRUE
+(1, 1) (4, 4)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+point[3]:point: 4, 4 actual: 4.000000, 4.000000
+(1, 2) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+(1, 2) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (2, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+(1, 2) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (2, 0)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+(1, 2) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (3, 1)
+point[0]:point: 0, 2 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 1.000000, 2.000000
+(1, 2) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 1 ) ) + 2 
+point: 0, 2 actual: 0.000000, 4.000000
+point[1]:point: 0, 3 actual: 0.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 2 
+point: 1, 4 actual: 1.000000, 2.000000
+(1, 2) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (1, 0)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+(1, 2) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (1, 1)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+(1, 2) (1, 2)
+switchcaseslope = TRUE
+(2, 1) (2, 1)
+point[0]:point: 1, 2 actual: 1.000000, -nan
+(1, 2) (1, 3)
+switchcaseslope = TRUE
+(2, 1) (3, 1)
+point[0]:point: 1, 2 actual: 1.000000, -nan
+point[1]:point: 1, 3 actual: 1.000000, -nan
+(1, 2) (1, 4)
+switchcaseslope = TRUE
+(2, 1) (4, 1)
+point[0]:point: 1, 2 actual: 1.000000, -nan
+point[1]:point: 1, 3 actual: 1.000000, -nan
+point[2]:point: 1, 4 actual: 1.000000, -nan
+(1, 2) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 2 
+point: 1, 0 actual: 1.000000, 2.000000
+point[1]:point: 1, 1 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 1 ) ) + 2 
+point: 2, 2 actual: 2.000000, 0.000000
+(1, 2) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (2, 2)
+point[0]:point: 1, 1 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+(1, 2) (2, 2)
+switchcaseslope = FALSE
+(1, 2) (2, 2)
+point[0]:point: 1, 2 actual: -nan, 2.000000
+point[1]:point: 2, 2 actual: -nan, 2.000000
+(1, 2) (2, 3)
+switchcaseslope = TRUE
+(2, 1) (3, 2)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+(1, 2) (2, 4)
+switchcaseslope = TRUE
+(2, 1) (4, 2)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 2.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(1, 2) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 1 ) ) + 2 
+point: 1, 0 actual: 1.000000, 2.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 1 ) ) + 2 
+point: 3, 2 actual: 3.000000, 0.000000
+(1, 2) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 1 ) ) + 2 
+point: 1, 1 actual: 3.000000, 1.000000
+point[1]:point: 2, 1 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 1 ) ) + 2 
+point: 3, 2 actual: 1.000000, 2.000000
+(1, 2) (3, 2)
+switchcaseslope = FALSE
+(1, 2) (3, 2)
+point[0]:point: 1, 2 actual: -nan, 2.000000
+point[1]:point: 2, 2 actual: -nan, 2.000000
+point[2]:point: 3, 2 actual: -nan, 2.000000
+(1, 2) (3, 3)
+switchcaseslope = FALSE
+(1, 2) (3, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(1, 2) (3, 4)
+switchcaseslope = TRUE
+(2, 1) (4, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(1, 2) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 2 
+point: 1, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 2 
+point: 2, 0 actual: 4.000000, 0.000000
+point[2]:point: 3, 1 actual: 2.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 1 ) ) + 2 
+point: 4, 1 actual: 2.500000, 1.000000
+(1, 2) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 2 
+point: 1, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 2 
+point: 2, 1 actual: 4.000000, 1.000000
+point[2]:point: 3, 1 actual: 4.000000, 1.000000
+point[3]:point: 4, 1 actual: 4.000000, 1.000000
+(1, 2) (4, 2)
+switchcaseslope = FALSE
+(1, 2) (4, 2)
+point[0]:point: 1, 2 actual: -nan, 2.000000
+point[1]:point: 2, 2 actual: -nan, 2.000000
+point[2]:point: 3, 2 actual: -nan, 2.000000
+point[3]:point: 4, 2 actual: -nan, 2.000000
+(1, 2) (4, 3)
+switchcaseslope = FALSE
+(1, 2) (4, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 2 
+point: 3, 2 actual: 1.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 2 
+point: 4, 2 actual: 1.000000, 2.000000
+(1, 2) (4, 4)
+switchcaseslope = FALSE
+(1, 2) (4, 4)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:point: 3, 3 actual: 2.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 1 ) ) + 2 
+point: 4, 3 actual: 2.500000, 3.000000
+(1, 3) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 1 ) ) + 3 
+point: 0, 2 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 1 ) ) + 3 
+point: 0, 3 actual: 0.000000, 0.000000
+(1, 3) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (3, 1)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 1) (3, 0)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 0) (4, 1)
+point[0]:point: 0, 3 actual: 0.000000, 4.000000
+point[1]:point: 1, 4 actual: 1.000000, 3.000000
+(1, 3) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (1, 0)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (1, 1)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (1, 2)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (1, 3)
+switchcaseslope = TRUE
+(3, 1) (3, 1)
+point[0]:point: 1, 3 actual: 1.000000, -nan
+(1, 3) (1, 4)
+switchcaseslope = TRUE
+(3, 1) (4, 1)
+point[0]:point: 1, 3 actual: 1.000000, -nan
+point[1]:point: 1, 4 actual: 1.000000, -nan
+(1, 3) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 1, 2 actual: 1.000000, 3.000000
+point[3]:point: 1, 3 actual: 1.000000, 3.000000
+(1, 3) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 1 actual: 1.000000, 3.000000
+point[1]:point: 1, 2 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 1 ) ) + 3 
+point: 2, 3 actual: 2.000000, 1.000000
+(1, 3) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (3, 2)
+point[0]:point: 1, 2 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 2.000000, 2.000000
+(1, 3) (2, 3)
+switchcaseslope = FALSE
+(1, 3) (2, 3)
+point[0]:point: 1, 3 actual: -nan, 3.000000
+point[1]:point: 2, 3 actual: -nan, 3.000000
+(1, 3) (2, 4)
+switchcaseslope = TRUE
+(3, 1) (4, 2)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 4 actual: 2.000000, 4.000000
+(1, 3) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 1 ) ) + 3 
+point: 2, 3 actual: 2.000000, 1.500000
+(1, 3) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 1 actual: 1.000000, 3.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 1 ) ) + 3 
+point: 3, 3 actual: 3.000000, 1.000000
+(1, 3) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 1 ) ) + 3 
+point: 1, 2 actual: 3.000000, 2.000000
+point[1]:point: 2, 2 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 1 ) ) + 3 
+point: 3, 3 actual: 1.000000, 3.000000
+(1, 3) (3, 3)
+switchcaseslope = FALSE
+(1, 3) (3, 3)
+point[0]:point: 1, 3 actual: -nan, 3.000000
+point[1]:point: 2, 3 actual: -nan, 3.000000
+point[2]:point: 3, 3 actual: -nan, 3.000000
+(1, 3) (3, 4)
+switchcaseslope = FALSE
+(1, 3) (3, 4)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 1.000000, 3.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(1, 3) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 1 ) ) + 3 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:point: 2, 1 actual: 2.000000, 2.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 1 ) ) + 3 
+point: 4, 3 actual: 4.000000, 0.000000
+(1, 3) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 3 
+point: 1, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 3 
+point: 2, 1 actual: 4.000000, 1.000000
+point[2]:point: 3, 2 actual: 2.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 1 ) ) + 3 
+point: 4, 2 actual: 2.500000, 2.000000
+(1, 3) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 3 
+point: 1, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 3 
+point: 2, 2 actual: 4.000000, 2.000000
+point[2]:point: 3, 2 actual: 4.000000, 2.000000
+point[3]:point: 4, 2 actual: 4.000000, 2.000000
+(1, 3) (4, 3)
+switchcaseslope = FALSE
+(1, 3) (4, 3)
+point[0]:point: 1, 3 actual: -nan, 3.000000
+point[1]:point: 2, 3 actual: -nan, 3.000000
+point[2]:point: 3, 3 actual: -nan, 3.000000
+point[3]:point: 4, 3 actual: -nan, 3.000000
+(1, 3) (4, 4)
+switchcaseslope = FALSE
+(1, 3) (4, 4)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 3 
+point: 3, 3 actual: 1.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 1 ) ) + 3 
+point: 4, 3 actual: 1.000000, 3.000000
+(1, 4) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 0.000000 - 1 ) ) + 4 
+point: 0, 2 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 0.000000 - 1 ) ) + 4 
+point: 0, 3 actual: 0.000000, 0.000000
+point[4]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 1)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 1 ) ) + 4 
+point: 0, 3 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 0.000000 - 1 ) ) + 4 
+point: 0, 4 actual: 0.000000, 1.000000
+(1, 4) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 1)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 0, 3 actual: 0.000000, 2.000000
+point[2]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 0) (4, 1)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 1) (4, 0)
+point[0]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 4) (1, 0)
+point[0]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 4) (1, 1)
+point[0]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 4) (1, 2)
+point[0]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 4) (1, 3)
+point[0]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (1, 4)
+switchcaseslope = TRUE
+(4, 1) (4, 1)
+point[0]:point: 1, 4 actual: 1.000000, -nan
+(1, 4) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 1.000000, 4.000000
+point[3]:point: 1, 3 actual: 1.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 1 ) ) + 4 
+point: 2, 4 actual: 2.000000, 0.000000
+(1, 4) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 1.000000, 4.000000
+point[2]:point: 1, 3 actual: 1.000000, 4.000000
+point[3]:point: 1, 4 actual: 1.000000, 4.000000
+(1, 4) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 1.000000, 4.000000
+point[1]:point: 1, 3 actual: 1.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 1 ) ) + 4 
+point: 2, 4 actual: 2.000000, 2.000000
+(1, 4) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 1) (4, 2)
+point[0]:point: 1, 3 actual: 1.000000, 4.000000
+point[1]:point: 2, 4 actual: 2.000000, 3.000000
+(1, 4) (2, 4)
+switchcaseslope = FALSE
+(1, 4) (2, 4)
+point[0]:point: 1, 4 actual: -nan, 4.000000
+point[1]:point: 2, 4 actual: -nan, 4.000000
+(1, 4) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 2, 3 actual: 2.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 1 ) ) + 4 
+point: 3, 4 actual: 3.000000, 0.000000
+(1, 4) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 1.000000, 4.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 1 ) ) + 4 
+point: 2, 4 actual: 2.000000, 2.500000
+(1, 4) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 1.000000, 4.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 1 ) ) + 4 
+point: 3, 4 actual: 3.000000, 2.000000
+(1, 4) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 1 ) ) + 4 
+point: 1, 3 actual: 3.000000, 3.000000
+point[1]:point: 2, 3 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 1 ) ) + 4 
+point: 3, 4 actual: 1.000000, 4.000000
+(1, 4) (3, 4)
+switchcaseslope = FALSE
+(1, 4) (3, 4)
+point[0]:point: 1, 4 actual: -nan, 4.000000
+point[1]:point: 2, 4 actual: -nan, 4.000000
+point[2]:point: 3, 4 actual: -nan, 4.000000
+(1, 4) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.666667
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 3.000000 - 1 ) ) + 4 
+point: 3, 3 actual: 3.000000, 1.333333
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 4.000000 - 1 ) ) + 4 
+point: 4, 4 actual: 4.000000, 0.000000
+(1, 4) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 1 ) ) + 4 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:point: 2, 2 actual: 2.000000, 3.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 1 ) ) + 4 
+point: 4, 4 actual: 4.000000, 1.000000
+(1, 4) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 4 
+point: 1, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 1 ) ) + 4 
+point: 2, 2 actual: 4.000000, 2.000000
+point[2]:point: 3, 3 actual: 2.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 1 ) ) + 4 
+point: 4, 3 actual: 2.500000, 3.000000
+(1, 4) (4, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 4 
+point: 1, 3 actual: 4.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 1 ) ) + 4 
+point: 2, 3 actual: 4.000000, 3.000000
+point[2]:point: 3, 3 actual: 4.000000, 3.000000
+point[3]:point: 4, 3 actual: 4.000000, 3.000000
+(1, 4) (4, 4)
+switchcaseslope = FALSE
+(1, 4) (4, 4)
+point[0]:point: 1, 4 actual: -nan, 4.000000
+point[1]:point: 2, 4 actual: -nan, 4.000000
+point[2]:point: 3, 4 actual: -nan, 4.000000
+point[3]:point: 4, 4 actual: -nan, 4.000000
+(2, 0) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (0, 0)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+(2, 0) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (2, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 0 
+point: 0, 0 actual: 2.000000, 0.000000
+point[1]:point: 1, 0 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 2 ) ) + 0 
+point: 2, 1 actual: 0.000000, 1.000000
+(2, 0) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 2 ) ) + 0 
+point: 0, 0 actual: 0.000000, 2.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 2 actual: 2.000000, 0.000000
+(2, 0) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 2 ) ) + 0 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 2 ) ) + 0 
+point: 0, 1 actual: 0.000000, 3.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 3 actual: 1.000000, 1.500000
+(2, 0) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 2 ) ) + 0 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 0.000000 - 2 ) ) + 0 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+point[3]:point: 1, 3 actual: 1.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 4 actual: 2.000000, 0.000000
+(2, 0) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (0, 1)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+(2, 0) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (1, 2)
+point[0]:point: 1, 0 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+(2, 0) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 0 actual: 1.000000, 2.000000
+point[1]:point: 1, 1 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 2 actual: 2.000000, 0.000000
+(2, 0) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 1, 2 actual: 1.000000, 3.000000
+point[3]:point: 1, 3 actual: 1.000000, 3.000000
+(2, 0) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 1.000000 - 2 ) ) + 0 
+point: 1, 2 actual: 1.000000, 4.000000
+point[3]:point: 1, 3 actual: 1.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 4 actual: 2.000000, 0.000000
+(2, 0) (2, 0)
+switchcaseslope = TRUE
+(0, 2) (0, 2)
+point[0]:point: 2, 0 actual: 2.000000, -nan
+(2, 0) (2, 1)
+switchcaseslope = TRUE
+(0, 2) (1, 2)
+point[0]:point: 2, 0 actual: 2.000000, -nan
+point[1]:point: 2, 1 actual: 2.000000, -nan
+(2, 0) (2, 2)
+switchcaseslope = TRUE
+(0, 2) (2, 2)
+point[0]:point: 2, 0 actual: 2.000000, -nan
+point[1]:point: 2, 1 actual: 2.000000, -nan
+point[2]:point: 2, 2 actual: 2.000000, -nan
+(2, 0) (2, 3)
+switchcaseslope = TRUE
+(0, 2) (3, 2)
+point[0]:point: 2, 0 actual: 2.000000, -nan
+point[1]:point: 2, 1 actual: 2.000000, -nan
+point[2]:point: 2, 2 actual: 2.000000, -nan
+point[3]:point: 2, 3 actual: 2.000000, -nan
+(2, 0) (2, 4)
+switchcaseslope = TRUE
+(0, 2) (4, 2)
+point[0]:point: 2, 0 actual: 2.000000, -nan
+point[1]:point: 2, 1 actual: 2.000000, -nan
+point[2]:point: 2, 2 actual: 2.000000, -nan
+point[3]:point: 2, 3 actual: 2.000000, -nan
+point[4]:point: 2, 4 actual: 2.000000, -nan
+(2, 0) (3, 0)
+switchcaseslope = FALSE
+(2, 0) (3, 0)
+point[0]:point: 2, 0 actual: -nan, 0.000000
+point[1]:point: 3, 0 actual: -nan, 0.000000
+(2, 0) (3, 1)
+switchcaseslope = TRUE
+(0, 2) (1, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+(2, 0) (3, 2)
+switchcaseslope = TRUE
+(0, 2) (2, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(2, 0) (3, 3)
+switchcaseslope = TRUE
+(0, 2) (3, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 2 actual: 2.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 3 actual: 2.000000, 0.000000
+(2, 0) (3, 4)
+switchcaseslope = TRUE
+(0, 2) (4, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 2 actual: 2.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 2.000000 - 2 ) ) + 0 
+point: 2, 3 actual: 2.000000, 0.000000
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(2, 0) (4, 0)
+switchcaseslope = FALSE
+(2, 0) (4, 0)
+point[0]:point: 2, 0 actual: -nan, 0.000000
+point[1]:point: 3, 0 actual: -nan, 0.000000
+point[2]:point: 4, 0 actual: -nan, 0.000000
+(2, 0) (4, 1)
+switchcaseslope = FALSE
+(2, 0) (4, 1)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 0 actual: 2.000000, 0.000000
+point[2]:point: 4, 1 actual: 4.000000, 1.000000
+(2, 0) (4, 2)
+switchcaseslope = TRUE
+(0, 2) (2, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(2, 0) (4, 3)
+switchcaseslope = TRUE
+(0, 2) (3, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 3.000000 - 2 ) ) + 0 
+point: 3, 3 actual: 3.000000, 1.500000
+(2, 0) (4, 4)
+switchcaseslope = TRUE
+(0, 2) (4, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 2.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(2, 1) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (2, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+(2, 1) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (1, 0)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+(2, 1) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (2, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 1 
+point: 0, 1 actual: 2.000000, 1.000000
+point[1]:point: 1, 1 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 2 ) ) + 1 
+point: 2, 2 actual: 0.000000, 2.000000
+(2, 1) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 2 ) ) + 1 
+point: 0, 1 actual: 0.000000, 3.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 1 
+point: 2, 3 actual: 2.000000, 1.000000
+(2, 1) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 2 ) ) + 1 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 0.000000 - 2 ) ) + 1 
+point: 0, 2 actual: 0.000000, 4.000000
+point[2]:point: 1, 3 actual: 1.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 2 ) ) + 1 
+point: 1, 4 actual: 1.000000, 2.500000
+(2, 1) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (1, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+(2, 1) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (1, 1)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+(2, 1) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (2, 2)
+point[0]:point: 1, 1 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+(2, 1) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 2 ) ) + 1 
+point: 1, 1 actual: 1.000000, 3.000000
+point[1]:point: 1, 2 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 1 
+point: 2, 3 actual: 2.000000, 1.000000
+(2, 1) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 2 ) ) + 1 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 1.000000 - 2 ) ) + 1 
+point: 1, 2 actual: 1.000000, 4.000000
+point[2]:point: 1, 3 actual: 1.000000, 4.000000
+point[3]:point: 1, 4 actual: 1.000000, 4.000000
+(2, 1) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 1) (2, 0)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+(2, 1) (2, 1)
+switchcaseslope = TRUE
+(1, 2) (1, 2)
+point[0]:point: 2, 1 actual: 2.000000, -nan
+(2, 1) (2, 2)
+switchcaseslope = TRUE
+(1, 2) (2, 2)
+point[0]:point: 2, 1 actual: 2.000000, -nan
+point[1]:point: 2, 2 actual: 2.000000, -nan
+(2, 1) (2, 3)
+switchcaseslope = TRUE
+(1, 2) (3, 2)
+point[0]:point: 2, 1 actual: 2.000000, -nan
+point[1]:point: 2, 2 actual: 2.000000, -nan
+point[2]:point: 2, 3 actual: 2.000000, -nan
+(2, 1) (2, 4)
+switchcaseslope = TRUE
+(1, 2) (4, 2)
+point[0]:point: 2, 1 actual: 2.000000, -nan
+point[1]:point: 2, 2 actual: 2.000000, -nan
+point[2]:point: 2, 3 actual: 2.000000, -nan
+point[3]:point: 2, 4 actual: 2.000000, -nan
+(2, 1) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (1, 3)
+point[0]:point: 2, 0 actual: 2.000000, 1.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+(2, 1) (3, 1)
+switchcaseslope = FALSE
+(2, 1) (3, 1)
+point[0]:point: 2, 1 actual: -nan, 1.000000
+point[1]:point: 3, 1 actual: -nan, 1.000000
+(2, 1) (3, 2)
+switchcaseslope = TRUE
+(1, 2) (2, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+(2, 1) (3, 3)
+switchcaseslope = TRUE
+(1, 2) (3, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(2, 1) (3, 4)
+switchcaseslope = TRUE
+(1, 2) (4, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 2 ) ) + 1 
+point: 2, 3 actual: 2.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 2 ) ) + 1 
+point: 2, 4 actual: 2.000000, 1.000000
+(2, 1) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 2 ) ) + 1 
+point: 2, 0 actual: 4.000000, 0.000000
+point[1]:point: 3, 0 actual: 4.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 1 
+point: 4, 1 actual: 2.000000, 1.000000
+(2, 1) (4, 1)
+switchcaseslope = FALSE
+(2, 1) (4, 1)
+point[0]:point: 2, 1 actual: -nan, 1.000000
+point[1]:point: 3, 1 actual: -nan, 1.000000
+point[2]:point: 4, 1 actual: -nan, 1.000000
+(2, 1) (4, 2)
+switchcaseslope = FALSE
+(2, 1) (4, 2)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 1 actual: 2.000000, 1.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(2, 1) (4, 3)
+switchcaseslope = TRUE
+(1, 2) (3, 4)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(2, 1) (4, 4)
+switchcaseslope = TRUE
+(1, 2) (4, 4)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 3.000000 - 2 ) ) + 1 
+point: 3, 4 actual: 3.000000, 2.500000
+(2, 2) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (2, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (2, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (2, 0)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 2 
+point: 0, 2 actual: 2.000000, 2.000000
+point[1]:point: 1, 2 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 2 ) ) + 2 
+point: 2, 3 actual: 0.000000, 3.000000
+(2, 2) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 2 ) ) + 2 
+point: 0, 2 actual: 0.000000, 4.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 2 
+point: 2, 4 actual: 2.000000, 2.000000
+(2, 2) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (2, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (2, 1)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (3, 2)
+point[0]:point: 1, 2 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 2.000000, 2.000000
+(2, 2) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 2 ) ) + 2 
+point: 1, 2 actual: 1.000000, 4.000000
+point[1]:point: 1, 3 actual: 1.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 2 
+point: 2, 4 actual: 2.000000, 2.000000
+(2, 2) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 2) (2, 0)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 2) (2, 1)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+(2, 2) (2, 2)
+switchcaseslope = TRUE
+(2, 2) (2, 2)
+point[0]:point: 2, 2 actual: 2.000000, -nan
+(2, 2) (2, 3)
+switchcaseslope = TRUE
+(2, 2) (3, 2)
+point[0]:point: 2, 2 actual: 2.000000, -nan
+point[1]:point: 2, 3 actual: 2.000000, -nan
+(2, 2) (2, 4)
+switchcaseslope = TRUE
+(2, 2) (4, 2)
+point[0]:point: 2, 2 actual: 2.000000, -nan
+point[1]:point: 2, 3 actual: 2.000000, -nan
+point[2]:point: 2, 4 actual: 2.000000, -nan
+(2, 2) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 2 
+point: 2, 0 actual: 2.000000, 2.000000
+point[1]:point: 2, 1 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 2 ) ) + 2 
+point: 3, 2 actual: 3.000000, 0.000000
+(2, 2) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (2, 3)
+point[0]:point: 2, 1 actual: 2.000000, 2.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+(2, 2) (3, 2)
+switchcaseslope = FALSE
+(2, 2) (3, 2)
+point[0]:point: 2, 2 actual: -nan, 2.000000
+point[1]:point: 3, 2 actual: -nan, 2.000000
+(2, 2) (3, 3)
+switchcaseslope = TRUE
+(2, 2) (3, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+(2, 2) (3, 4)
+switchcaseslope = TRUE
+(2, 2) (4, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 2.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(2, 2) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 2 
+point: 2, 0 actual: 2.000000, 2.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 2 ) ) + 2 
+point: 4, 2 actual: 4.000000, 0.000000
+(2, 2) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 2 ) ) + 2 
+point: 2, 1 actual: 4.000000, 1.000000
+point[1]:point: 3, 1 actual: 4.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 2 
+point: 4, 2 actual: 2.000000, 2.000000
+(2, 2) (4, 2)
+switchcaseslope = FALSE
+(2, 2) (4, 2)
+point[0]:point: 2, 2 actual: -nan, 2.000000
+point[1]:point: 3, 2 actual: -nan, 2.000000
+point[2]:point: 4, 2 actual: -nan, 2.000000
+(2, 2) (4, 3)
+switchcaseslope = FALSE
+(2, 2) (4, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 2 actual: 2.000000, 2.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(2, 2) (4, 4)
+switchcaseslope = TRUE
+(2, 2) (4, 4)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(2, 3) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 1.000000 - 2 ) ) + 3 
+point: 1, 3 actual: 1.000000, 1.500000
+(2, 3) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (3, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (2, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 2) (3, 0)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 3 
+point: 0, 3 actual: 2.000000, 3.000000
+point[1]:point: 1, 3 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 2 ) ) + 3 
+point: 2, 4 actual: 0.000000, 4.000000
+(2, 3) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 2 ) ) + 3 
+point: 1, 2 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 2 ) ) + 3 
+point: 1, 3 actual: 1.000000, 0.000000
+(2, 3) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (3, 2)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 2) (3, 1)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 1) (4, 2)
+point[0]:point: 1, 3 actual: 1.000000, 4.000000
+point[1]:point: 2, 4 actual: 2.000000, 3.000000
+(2, 3) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (2, 0)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (2, 1)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (2, 2)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (2, 3)
+switchcaseslope = TRUE
+(3, 2) (3, 2)
+point[0]:point: 2, 3 actual: 2.000000, -nan
+(2, 3) (2, 4)
+switchcaseslope = TRUE
+(3, 2) (4, 2)
+point[0]:point: 2, 3 actual: 2.000000, -nan
+point[1]:point: 2, 4 actual: 2.000000, -nan
+(2, 3) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 0 actual: 2.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 1 actual: 2.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 3.000000
+point[3]:point: 2, 3 actual: 2.000000, 3.000000
+(2, 3) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 1 actual: 2.000000, 3.000000
+point[1]:point: 2, 2 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 2 ) ) + 3 
+point: 3, 3 actual: 3.000000, 1.000000
+(2, 3) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (3, 3)
+point[0]:point: 2, 2 actual: 2.000000, 3.000000
+point[1]:point: 3, 3 actual: 3.000000, 2.000000
+(2, 3) (3, 3)
+switchcaseslope = FALSE
+(2, 3) (3, 3)
+point[0]:point: 2, 3 actual: -nan, 3.000000
+point[1]:point: 3, 3 actual: -nan, 3.000000
+(2, 3) (3, 4)
+switchcaseslope = TRUE
+(3, 2) (4, 3)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+point[1]:point: 3, 4 actual: 3.000000, 4.000000
+(2, 3) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 0 actual: 2.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 1 actual: 2.000000, 3.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 3.000000 - 2 ) ) + 3 
+point: 3, 3 actual: 3.000000, 1.500000
+(2, 3) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 3 
+point: 2, 1 actual: 2.000000, 3.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 2 ) ) + 3 
+point: 4, 3 actual: 4.000000, 1.000000
+(2, 3) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 2 ) ) + 3 
+point: 2, 2 actual: 4.000000, 2.000000
+point[1]:point: 3, 2 actual: 4.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 3 
+point: 4, 3 actual: 2.000000, 3.000000
+(2, 3) (4, 3)
+switchcaseslope = FALSE
+(2, 3) (4, 3)
+point[0]:point: 2, 3 actual: -nan, 3.000000
+point[1]:point: 3, 3 actual: -nan, 3.000000
+point[2]:point: 4, 3 actual: -nan, 3.000000
+(2, 3) (4, 4)
+switchcaseslope = FALSE
+(2, 3) (4, 4)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+point[1]:point: 3, 3 actual: 2.000000, 3.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(2, 4) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.000000
+point[3]:point: 1, 3 actual: 1.000000, 2.000000
+point[4]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 0, 2 actual: 0.000000, 1.000000
+point[2]:point: 1, 3 actual: 1.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 1.000000 - 2 ) ) + 4 
+point: 1, 4 actual: 1.000000, 2.500000
+(2, 4) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 0) (4, 2)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 3.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (2, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 2) (4, 0)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 1.000000 - 2 ) ) + 4 
+point: 1, 2 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 1.000000 - 2 ) ) + 4 
+point: 1, 3 actual: 1.000000, 0.000000
+point[4]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 2 ) ) + 4 
+point: 1, 3 actual: 1.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 1.000000 - 2 ) ) + 4 
+point: 1, 4 actual: 1.000000, 1.000000
+(2, 4) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 2)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 1, 3 actual: 1.000000, 2.000000
+point[2]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 1) (4, 2)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 2) (4, 1)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 4) (2, 0)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 4) (2, 1)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 4) (2, 2)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 4) (2, 3)
+point[0]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (2, 4)
+switchcaseslope = TRUE
+(4, 2) (4, 2)
+point[0]:point: 2, 4 actual: 2.000000, -nan
+(2, 4) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 0 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 1 actual: 2.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 2 actual: 2.000000, 4.000000
+point[3]:point: 2, 3 actual: 2.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 2 ) ) + 4 
+point: 3, 4 actual: 3.000000, 0.000000
+(2, 4) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 1 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 2 actual: 2.000000, 4.000000
+point[2]:point: 2, 3 actual: 2.000000, 4.000000
+point[3]:point: 2, 4 actual: 2.000000, 4.000000
+(2, 4) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 2 actual: 2.000000, 4.000000
+point[1]:point: 2, 3 actual: 2.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 2 ) ) + 4 
+point: 3, 4 actual: 3.000000, 2.000000
+(2, 4) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 2) (4, 3)
+point[0]:point: 2, 3 actual: 2.000000, 4.000000
+point[1]:point: 3, 4 actual: 3.000000, 3.000000
+(2, 4) (3, 4)
+switchcaseslope = FALSE
+(2, 4) (3, 4)
+point[0]:point: 2, 4 actual: -nan, 4.000000
+point[1]:point: 3, 4 actual: -nan, 4.000000
+(2, 4) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 0 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 1 actual: 2.000000, 4.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 2 ) ) + 4 
+point: 4, 4 actual: 4.000000, 0.000000
+(2, 4) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 1 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 2 actual: 2.000000, 4.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 3.000000 - 2 ) ) + 4 
+point: 3, 4 actual: 3.000000, 2.500000
+(2, 4) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 2 ) ) + 4 
+point: 2, 2 actual: 2.000000, 4.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 2 ) ) + 4 
+point: 4, 4 actual: 4.000000, 2.000000
+(2, 4) (4, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 2 ) ) + 4 
+point: 2, 3 actual: 4.000000, 3.000000
+point[1]:point: 3, 3 actual: 4.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 2 ) ) + 4 
+point: 4, 4 actual: 2.000000, 4.000000
+(2, 4) (4, 4)
+switchcaseslope = FALSE
+(2, 4) (4, 4)
+point[0]:point: 2, 4 actual: -nan, 4.000000
+point[1]:point: 3, 4 actual: -nan, 4.000000
+point[2]:point: 4, 4 actual: -nan, 4.000000
+(3, 0) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (0, 0)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+(3, 0) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 0 
+point: 0, 0 actual: 3.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 3.000000, 0.000000
+point[2]:point: 2, 0 actual: 3.000000, 0.000000
+point[3]:point: 3, 0 actual: 3.000000, 0.000000
+(3, 0) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 0 
+point: 0, 0 actual: 3.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 3.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 3 ) ) + 0 
+point: 3, 1 actual: 1.500000, 1.000000
+(3, 0) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 3 ) ) + 0 
+point: 0, 0 actual: 0.000000, 3.000000
+point[1]:point: 1, 1 actual: 1.000000, 2.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 3 actual: 3.000000, 0.000000
+(3, 0) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 0.000000 - 3 ) ) + 0 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 0.000000 - 3 ) ) + 0 
+point: 0, 1 actual: 0.000000, 4.000000
+point[2]:point: 1, 2 actual: 1.000000, 2.666667
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 3 actual: 2.000000, 1.333333
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 4 actual: 3.000000, 0.000000
+(3, 0) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (0, 1)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+(3, 0) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (3, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 3.000000, 0.000000
+point[1]:point: 2, 0 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 3 ) ) + 0 
+point: 3, 1 actual: 1.000000, 1.000000
+(3, 0) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 1.000000, 2.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 2 actual: 3.000000, 0.000000
+(3, 0) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 3 ) ) + 0 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 3 actual: 2.000000, 1.500000
+(3, 0) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 3 ) ) + 0 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 1.000000 - 3 ) ) + 0 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 2, 3 actual: 2.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 4 actual: 3.000000, 0.000000
+(3, 0) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (0, 2)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+(3, 0) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (1, 3)
+point[0]:point: 2, 0 actual: 2.000000, 1.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+(3, 0) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 0 actual: 2.000000, 2.000000
+point[1]:point: 2, 1 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 2 actual: 3.000000, 0.000000
+(3, 0) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 0 actual: 2.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 1 actual: 2.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 3.000000
+point[3]:point: 2, 3 actual: 2.000000, 3.000000
+(3, 0) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 0 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 1 actual: 2.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 2.000000 - 3 ) ) + 0 
+point: 2, 2 actual: 2.000000, 4.000000
+point[3]:point: 2, 3 actual: 2.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 4 actual: 3.000000, 0.000000
+(3, 0) (3, 0)
+switchcaseslope = TRUE
+(0, 3) (0, 3)
+point[0]:point: 3, 0 actual: 3.000000, -nan
+(3, 0) (3, 1)
+switchcaseslope = TRUE
+(0, 3) (1, 3)
+point[0]:point: 3, 0 actual: 3.000000, -nan
+point[1]:point: 3, 1 actual: 3.000000, -nan
+(3, 0) (3, 2)
+switchcaseslope = TRUE
+(0, 3) (2, 3)
+point[0]:point: 3, 0 actual: 3.000000, -nan
+point[1]:point: 3, 1 actual: 3.000000, -nan
+point[2]:point: 3, 2 actual: 3.000000, -nan
+(3, 0) (3, 3)
+switchcaseslope = TRUE
+(0, 3) (3, 3)
+point[0]:point: 3, 0 actual: 3.000000, -nan
+point[1]:point: 3, 1 actual: 3.000000, -nan
+point[2]:point: 3, 2 actual: 3.000000, -nan
+point[3]:point: 3, 3 actual: 3.000000, -nan
+(3, 0) (3, 4)
+switchcaseslope = TRUE
+(0, 3) (4, 3)
+point[0]:point: 3, 0 actual: 3.000000, -nan
+point[1]:point: 3, 1 actual: 3.000000, -nan
+point[2]:point: 3, 2 actual: 3.000000, -nan
+point[3]:point: 3, 3 actual: 3.000000, -nan
+point[4]:point: 3, 4 actual: 3.000000, -nan
+(3, 0) (4, 0)
+switchcaseslope = FALSE
+(3, 0) (4, 0)
+point[0]:point: 3, 0 actual: -nan, 0.000000
+point[1]:point: 4, 0 actual: -nan, 0.000000
+(3, 0) (4, 1)
+switchcaseslope = TRUE
+(0, 3) (1, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 4, 1 actual: 4.000000, 1.000000
+(3, 0) (4, 2)
+switchcaseslope = TRUE
+(0, 3) (2, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(3, 0) (4, 3)
+switchcaseslope = TRUE
+(0, 3) (3, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 2 actual: 3.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 3 actual: 3.000000, 0.000000
+(3, 0) (4, 4)
+switchcaseslope = TRUE
+(0, 3) (4, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 2 actual: 3.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 3.000000 - 3 ) ) + 0 
+point: 3, 3 actual: 3.000000, 0.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(3, 1) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 1 
+point: 2, 0 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 1 
+point: 3, 0 actual: 0.000000, 0.000000
+(3, 1) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (1, 0)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 1 
+point: 0, 1 actual: 3.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 1 
+point: 1, 1 actual: 3.000000, 1.000000
+point[2]:point: 2, 1 actual: 3.000000, 1.000000
+point[3]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 1 
+point: 0, 1 actual: 3.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 1 
+point: 1, 1 actual: 3.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 3 ) ) + 1 
+point: 3, 2 actual: 1.500000, 2.000000
+(3, 1) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 3 ) ) + 1 
+point: 0, 1 actual: 0.000000, 4.000000
+point[1]:point: 1, 2 actual: 1.000000, 3.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 3 ) ) + 1 
+point: 3, 4 actual: 3.000000, 1.000000
+(3, 1) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (3, 1)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (1, 1)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (3, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 3 ) ) + 1 
+point: 1, 1 actual: 3.000000, 1.000000
+point[1]:point: 2, 1 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 3 ) ) + 1 
+point: 3, 2 actual: 1.000000, 2.000000
+(3, 1) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 3 ) ) + 1 
+point: 1, 1 actual: 1.000000, 3.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 3 ) ) + 1 
+point: 3, 3 actual: 3.000000, 1.000000
+(3, 1) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 3 ) ) + 1 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 1.000000 - 3 ) ) + 1 
+point: 1, 2 actual: 1.000000, 4.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 3 ) ) + 1 
+point: 2, 4 actual: 2.000000, 2.500000
+(3, 1) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (1, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (1, 2)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (2, 3)
+point[0]:point: 2, 1 actual: 2.000000, 2.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+(3, 1) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 3 ) ) + 1 
+point: 2, 1 actual: 2.000000, 3.000000
+point[1]:point: 2, 2 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 1 
+point: 3, 3 actual: 3.000000, 1.000000
+(3, 1) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 3 ) ) + 1 
+point: 2, 1 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 2.000000 - 3 ) ) + 1 
+point: 2, 2 actual: 2.000000, 4.000000
+point[2]:point: 2, 3 actual: 2.000000, 4.000000
+point[3]:point: 2, 4 actual: 2.000000, 4.000000
+(3, 1) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 1) (3, 0)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+(3, 1) (3, 1)
+switchcaseslope = TRUE
+(1, 3) (1, 3)
+point[0]:point: 3, 1 actual: 3.000000, -nan
+(3, 1) (3, 2)
+switchcaseslope = TRUE
+(1, 3) (2, 3)
+point[0]:point: 3, 1 actual: 3.000000, -nan
+point[1]:point: 3, 2 actual: 3.000000, -nan
+(3, 1) (3, 3)
+switchcaseslope = TRUE
+(1, 3) (3, 3)
+point[0]:point: 3, 1 actual: 3.000000, -nan
+point[1]:point: 3, 2 actual: 3.000000, -nan
+point[2]:point: 3, 3 actual: 3.000000, -nan
+(3, 1) (3, 4)
+switchcaseslope = TRUE
+(1, 3) (4, 3)
+point[0]:point: 3, 1 actual: 3.000000, -nan
+point[1]:point: 3, 2 actual: 3.000000, -nan
+point[2]:point: 3, 3 actual: 3.000000, -nan
+point[3]:point: 3, 4 actual: 3.000000, -nan
+(3, 1) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (1, 4)
+point[0]:point: 3, 0 actual: 3.000000, 1.000000
+point[1]:point: 4, 1 actual: 4.000000, 0.000000
+(3, 1) (4, 1)
+switchcaseslope = FALSE
+(3, 1) (4, 1)
+point[0]:point: 3, 1 actual: -nan, 1.000000
+point[1]:point: 4, 1 actual: -nan, 1.000000
+(3, 1) (4, 2)
+switchcaseslope = TRUE
+(1, 3) (2, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 4, 2 actual: 4.000000, 2.000000
+(3, 1) (4, 3)
+switchcaseslope = TRUE
+(1, 3) (3, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(3, 1) (4, 4)
+switchcaseslope = TRUE
+(1, 3) (4, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 3 ) ) + 1 
+point: 3, 3 actual: 3.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 3 ) ) + 1 
+point: 3, 4 actual: 3.000000, 1.000000
+(3, 2) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (3, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 3 ) ) + 2 
+point: 3, 1 actual: 1.500000, 1.000000
+(3, 2) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 2 
+point: 2, 1 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 2 
+point: 3, 1 actual: 0.000000, 1.000000
+(3, 2) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (2, 0)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 2 
+point: 0, 2 actual: 3.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 2 
+point: 1, 2 actual: 3.000000, 2.000000
+point[2]:point: 2, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 2 
+point: 0, 2 actual: 3.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 3.000000 - 3 ) ) + 2 
+point: 1, 2 actual: 3.000000, 2.000000
+point[2]:point: 2, 3 actual: 1.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 1.500000 - 3 ) ) + 2 
+point: 3, 3 actual: 1.500000, 3.000000
+(3, 2) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (2, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (3, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (2, 1)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (3, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 3 ) ) + 2 
+point: 1, 2 actual: 3.000000, 2.000000
+point[1]:point: 2, 2 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 3 ) ) + 2 
+point: 3, 3 actual: 1.000000, 3.000000
+(3, 2) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 3 ) ) + 2 
+point: 1, 2 actual: 1.000000, 4.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 3 ) ) + 2 
+point: 3, 4 actual: 3.000000, 2.000000
+(3, 2) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (2, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (2, 2)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (3, 3)
+point[0]:point: 2, 2 actual: 2.000000, 3.000000
+point[1]:point: 3, 3 actual: 3.000000, 2.000000
+(3, 2) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 3 ) ) + 2 
+point: 2, 2 actual: 2.000000, 4.000000
+point[1]:point: 2, 3 actual: 2.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 2 
+point: 3, 4 actual: 3.000000, 2.000000
+(3, 2) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 2) (3, 0)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 2) (3, 1)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+(3, 2) (3, 2)
+switchcaseslope = TRUE
+(2, 3) (2, 3)
+point[0]:point: 3, 2 actual: 3.000000, -nan
+(3, 2) (3, 3)
+switchcaseslope = TRUE
+(2, 3) (3, 3)
+point[0]:point: 3, 2 actual: 3.000000, -nan
+point[1]:point: 3, 3 actual: 3.000000, -nan
+(3, 2) (3, 4)
+switchcaseslope = TRUE
+(2, 3) (4, 3)
+point[0]:point: 3, 2 actual: 3.000000, -nan
+point[1]:point: 3, 3 actual: 3.000000, -nan
+point[2]:point: 3, 4 actual: 3.000000, -nan
+(3, 2) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 2 
+point: 3, 0 actual: 3.000000, 2.000000
+point[1]:point: 3, 1 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 3 ) ) + 2 
+point: 4, 2 actual: 4.000000, 0.000000
+(3, 2) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (2, 4)
+point[0]:point: 3, 1 actual: 3.000000, 2.000000
+point[1]:point: 4, 2 actual: 4.000000, 1.000000
+(3, 2) (4, 2)
+switchcaseslope = FALSE
+(3, 2) (4, 2)
+point[0]:point: 3, 2 actual: -nan, 2.000000
+point[1]:point: 4, 2 actual: -nan, 2.000000
+(3, 2) (4, 3)
+switchcaseslope = TRUE
+(2, 3) (3, 4)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+point[1]:point: 4, 3 actual: 4.000000, 3.000000
+(3, 2) (4, 4)
+switchcaseslope = TRUE
+(2, 3) (4, 4)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 2.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(3, 3) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (3, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (3, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 3 ) ) + 3 
+point: 3, 2 actual: 1.500000, 2.000000
+(3, 3) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 3 
+point: 2, 2 actual: 0.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 3 
+point: 3, 2 actual: 0.000000, 2.000000
+(3, 3) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (3, 0)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 3 
+point: 0, 3 actual: 3.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 3.000000 - 3 ) ) + 3 
+point: 1, 3 actual: 3.000000, 3.000000
+point[2]:point: 2, 3 actual: 3.000000, 3.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 2.000000 - 3 ) ) + 3 
+point: 2, 3 actual: 2.000000, 1.500000
+(3, 3) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (3, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (3, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (3, 1)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 3.000000 - 3 ) ) + 3 
+point: 1, 3 actual: 3.000000, 3.000000
+point[1]:point: 2, 3 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 1.000000 - 3 ) ) + 3 
+point: 3, 4 actual: 1.000000, 4.000000
+(3, 3) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 3 ) ) + 3 
+point: 2, 2 actual: 2.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 3 ) ) + 3 
+point: 2, 3 actual: 2.000000, 0.000000
+(3, 3) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (3, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (3, 2)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 2) (4, 3)
+point[0]:point: 2, 3 actual: 2.000000, 4.000000
+point[1]:point: 3, 4 actual: 3.000000, 3.000000
+(3, 3) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 3) (3, 0)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 3) (3, 1)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 3) (3, 2)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (3, 3)
+switchcaseslope = TRUE
+(3, 3) (3, 3)
+point[0]:point: 3, 3 actual: 3.000000, -nan
+(3, 3) (3, 4)
+switchcaseslope = TRUE
+(3, 3) (4, 3)
+point[0]:point: 3, 3 actual: 3.000000, -nan
+point[1]:point: 3, 4 actual: 3.000000, -nan
+(3, 3) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 3 ) ) + 3 
+point: 3, 0 actual: 3.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 3 ) ) + 3 
+point: 3, 1 actual: 3.000000, 3.000000
+point[2]:point: 3, 2 actual: 3.000000, 3.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(3, 3) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 3 
+point: 3, 1 actual: 3.000000, 3.000000
+point[1]:point: 3, 2 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 3 ) ) + 3 
+point: 4, 3 actual: 4.000000, 1.000000
+(3, 3) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (3, 4)
+point[0]:point: 3, 2 actual: 3.000000, 3.000000
+point[1]:point: 4, 3 actual: 4.000000, 2.000000
+(3, 3) (4, 3)
+switchcaseslope = FALSE
+(3, 3) (4, 3)
+point[0]:point: 3, 3 actual: -nan, 3.000000
+point[1]:point: 4, 3 actual: -nan, 3.000000
+(3, 3) (4, 4)
+switchcaseslope = TRUE
+(3, 3) (4, 4)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+point[1]:point: 4, 4 actual: 4.000000, 4.000000
+(3, 4) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 0, 1 actual: 0.000000, 0.000000
+point[2]:point: 1, 2 actual: 1.000000, 1.333333
+point[3]:point: 2, 3 actual: 2.000000, 2.666667
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 0) (4, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (3, 4)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 1.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 1.500000 - 3 ) ) + 4 
+point: 3, 3 actual: 1.500000, 3.000000
+(3, 4) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (3, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 4 
+point: 2, 3 actual: 0.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 0.000000 - 3 ) ) + 4 
+point: 3, 3 actual: 0.000000, 3.000000
+(3, 4) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 3) (4, 0)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 3)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 2, 3 actual: 2.000000, 2.000000
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 1, 2 actual: 1.000000, 1.000000
+point[2]:point: 2, 3 actual: 2.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 2.000000 - 3 ) ) + 4 
+point: 2, 4 actual: 2.000000, 2.500000
+(3, 4) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 1) (4, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 3.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (3, 4)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 1.000000, 3.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 3) (4, 1)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 3)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 2.000000 - 3 ) ) + 4 
+point: 2, 2 actual: 2.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 2.000000 - 3 ) ) + 4 
+point: 2, 3 actual: 2.000000, 0.000000
+point[4]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 3)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 3 ) ) + 4 
+point: 2, 3 actual: 2.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 2.000000 - 3 ) ) + 4 
+point: 2, 4 actual: 2.000000, 1.000000
+(3, 4) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 2, 3 actual: 2.000000, 2.000000
+point[2]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 2) (4, 3)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+point[1]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 3) (4, 2)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 4) (3, 0)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 4) (3, 1)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 4) (3, 2)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(3, 4) (3, 3)
+point[0]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (3, 4)
+switchcaseslope = TRUE
+(4, 3) (4, 3)
+point[0]:point: 3, 4 actual: 3.000000, -nan
+(3, 4) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 0 actual: 3.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 1 actual: 3.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 2 actual: 3.000000, 4.000000
+point[3]:point: 3, 3 actual: 3.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 4.000000 - 3 ) ) + 4 
+point: 4, 4 actual: 4.000000, 0.000000
+(3, 4) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 1 actual: 3.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 2 actual: 3.000000, 4.000000
+point[2]:point: 3, 3 actual: 3.000000, 4.000000
+point[3]:point: 3, 4 actual: 3.000000, 4.000000
+(3, 4) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 3 ) ) + 4 
+point: 3, 2 actual: 3.000000, 4.000000
+point[1]:point: 3, 3 actual: 3.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 3 ) ) + 4 
+point: 4, 4 actual: 4.000000, 2.000000
+(3, 4) (4, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (4, 4)
+point[0]:point: 3, 3 actual: 3.000000, 4.000000
+point[1]:point: 4, 4 actual: 4.000000, 3.000000
+(3, 4) (4, 4)
+switchcaseslope = FALSE
+(3, 4) (4, 4)
+point[0]:point: 3, 4 actual: -nan, 4.000000
+point[1]:point: 4, 4 actual: -nan, 4.000000
+(4, 0) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 4) (0, 0)
+point[0]:point: 4, 0 actual: 4.000000, 0.000000
+(4, 0) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 0 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 4.000000, 0.000000
+point[3]:point: 3, 0 actual: 4.000000, 0.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 4 ) ) + 0 
+point: 4, 1 actual: 0.000000, 1.000000
+(4, 0) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 0 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+point[3]:point: 3, 1 actual: 2.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 4 ) ) + 0 
+point: 4, 2 actual: 0.000000, 2.000000
+(4, 0) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 4 ) ) + 0 
+point: 0, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 4.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.666667, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 1.333333 - 4 ) ) + 0 
+point: 3, 2 actual: 1.333333, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 0.000000 - 4 ) ) + 0 
+point: 4, 3 actual: 0.000000, 3.000000
+(4, 0) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 0.000000 - 4 ) ) + 0 
+point: 0, 0 actual: 0.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 4 ) ) + 0 
+point: 1, 1 actual: 1.000000, 3.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 3 actual: 3.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 4 actual: 4.000000, 0.000000
+(4, 0) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 4) (0, 1)
+point[0]:point: 4, 0 actual: 4.000000, 0.000000
+(4, 0) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 4.000000, 0.000000
+point[2]:point: 3, 0 actual: 4.000000, 0.000000
+point[3]:point: 4, 0 actual: 4.000000, 0.000000
+(4, 0) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 4.000000, 0.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 4.000000, 0.000000
+point[2]:point: 3, 1 actual: 2.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 4 ) ) + 0 
+point: 4, 1 actual: 2.500000, 1.000000
+(4, 0) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 1.000000, 3.000000
+point[1]:point: 2, 1 actual: 2.000000, 2.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 3 actual: 4.000000, 0.000000
+(4, 0) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 1.000000 - 4 ) ) + 0 
+point: 1, 0 actual: 1.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 1.000000 - 4 ) ) + 0 
+point: 1, 1 actual: 1.000000, 4.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.666667
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 3 actual: 3.000000, 1.333333
+point[4]:### ERROR checkplotlinefloat ### equation: ( -1.333333 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 4 actual: 4.000000, 0.000000
+(4, 0) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 4) (0, 2)
+point[0]:point: 4, 0 actual: 4.000000, 0.000000
+(4, 0) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 0) (4, 1)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 4.000000, 0.000000
+point[1]:point: 3, 0 actual: 4.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 4 ) ) + 0 
+point: 4, 1 actual: 2.000000, 1.000000
+(4, 0) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 2.000000, 2.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 2 actual: 4.000000, 0.000000
+(4, 0) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 2.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 4 ) ) + 0 
+point: 2, 1 actual: 2.000000, 3.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 3 actual: 3.000000, 1.500000
+(4, 0) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 4 ) ) + 0 
+point: 2, 0 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 2.000000 - 4 ) ) + 0 
+point: 2, 1 actual: 2.000000, 4.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 4 actual: 4.000000, 0.000000
+(4, 0) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 4) (0, 3)
+point[0]:point: 4, 0 actual: 4.000000, 0.000000
+(4, 0) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (1, 4)
+point[0]:point: 3, 0 actual: 3.000000, 1.000000
+point[1]:point: 4, 1 actual: 4.000000, 0.000000
+(4, 0) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (2, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 0 actual: 3.000000, 2.000000
+point[1]:point: 3, 1 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 2 actual: 4.000000, 0.000000
+(4, 0) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 0 actual: 3.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 1 actual: 3.000000, 3.000000
+point[2]:point: 3, 2 actual: 3.000000, 3.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+(4, 0) (3, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 0 actual: 3.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 1 actual: 3.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 3.000000 - 4 ) ) + 0 
+point: 3, 2 actual: 3.000000, 4.000000
+point[3]:point: 3, 3 actual: 3.000000, 4.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -4.000000 * ( 4.000000 - 4 ) ) + 0 
+point: 4, 4 actual: 4.000000, 0.000000
+(4, 0) (4, 0)
+switchcaseslope = TRUE
+(0, 4) (0, 4)
+point[0]:point: 4, 0 actual: 4.000000, -nan
+(4, 0) (4, 1)
+switchcaseslope = TRUE
+(0, 4) (1, 4)
+point[0]:point: 4, 0 actual: 4.000000, -nan
+point[1]:point: 4, 1 actual: 4.000000, -nan
+(4, 0) (4, 2)
+switchcaseslope = TRUE
+(0, 4) (2, 4)
+point[0]:point: 4, 0 actual: 4.000000, -nan
+point[1]:point: 4, 1 actual: 4.000000, -nan
+point[2]:point: 4, 2 actual: 4.000000, -nan
+(4, 0) (4, 3)
+switchcaseslope = TRUE
+(0, 4) (3, 4)
+point[0]:point: 4, 0 actual: 4.000000, -nan
+point[1]:point: 4, 1 actual: 4.000000, -nan
+point[2]:point: 4, 2 actual: 4.000000, -nan
+point[3]:point: 4, 3 actual: 4.000000, -nan
+(4, 0) (4, 4)
+switchcaseslope = TRUE
+(0, 4) (4, 4)
+point[0]:point: 4, 0 actual: 4.000000, -nan
+point[1]:point: 4, 1 actual: 4.000000, -nan
+point[2]:point: 4, 2 actual: 4.000000, -nan
+point[3]:point: 4, 3 actual: 4.000000, -nan
+point[4]:point: 4, 4 actual: 4.000000, -nan
+(4, 1) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 1)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 1 
+point: 2, 0 actual: 0.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 1 
+point: 3, 0 actual: 0.000000, 0.000000
+point[4]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 4) (1, 0)
+point[0]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 1 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 4.000000, 1.000000
+point[3]:point: 3, 1 actual: 4.000000, 1.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 4 ) ) + 1 
+point: 4, 2 actual: 0.000000, 2.000000
+(4, 1) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 1 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 2 actual: 2.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 4 ) ) + 1 
+point: 4, 3 actual: 0.000000, 3.000000
+(4, 1) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 4 ) ) + 1 
+point: 0, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 4.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 4.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.666667, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 1.333333 - 4 ) ) + 1 
+point: 3, 3 actual: 1.333333, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.750000 * ( 0.000000 - 4 ) ) + 1 
+point: 4, 4 actual: 0.000000, 4.000000
+(4, 1) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 1)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 1 
+point: 3, 0 actual: 1.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 1 
+point: 4, 0 actual: 1.000000, 0.000000
+(4, 1) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 4) (1, 1)
+point[0]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 4.000000, 1.000000
+point[2]:point: 3, 1 actual: 4.000000, 1.000000
+point[3]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 4.000000, 1.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 4.000000, 1.000000
+point[2]:point: 3, 2 actual: 2.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 4 ) ) + 1 
+point: 4, 2 actual: 2.500000, 2.000000
+(4, 1) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 1.000000 - 4 ) ) + 1 
+point: 1, 1 actual: 1.000000, 4.000000
+point[1]:point: 2, 2 actual: 2.000000, 3.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 1 
+point: 4, 4 actual: 4.000000, 1.000000
+(4, 1) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 0) (4, 1)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 0 actual: 2.000000, 0.000000
+point[2]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 4) (1, 2)
+point[0]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 1) (4, 2)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 4.000000, 1.000000
+point[1]:point: 3, 1 actual: 4.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 4 ) ) + 1 
+point: 4, 2 actual: 2.000000, 2.000000
+(4, 1) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 2.000000, 3.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 1 
+point: 4, 3 actual: 4.000000, 1.000000
+(4, 1) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 4 ) ) + 1 
+point: 2, 1 actual: 2.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 2.000000 - 4 ) ) + 1 
+point: 2, 2 actual: 2.000000, 4.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -1.500000 * ( 3.000000 - 4 ) ) + 1 
+point: 3, 4 actual: 3.000000, 2.500000
+(4, 1) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (1, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 4) (1, 3)
+point[0]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (2, 4)
+point[0]:point: 3, 1 actual: 3.000000, 2.000000
+point[1]:point: 4, 2 actual: 4.000000, 1.000000
+(4, 1) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (3, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 4 ) ) + 1 
+point: 3, 1 actual: 3.000000, 3.000000
+point[1]:point: 3, 2 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 4 ) ) + 1 
+point: 4, 3 actual: 4.000000, 1.000000
+(4, 1) (3, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 4 ) ) + 1 
+point: 3, 1 actual: 3.000000, 4.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -3.000000 * ( 3.000000 - 4 ) ) + 1 
+point: 3, 2 actual: 3.000000, 4.000000
+point[2]:point: 3, 3 actual: 3.000000, 4.000000
+point[3]:point: 3, 4 actual: 3.000000, 4.000000
+(4, 1) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 1) (4, 0)
+point[0]:point: 4, 1 actual: 4.000000, 1.000000
+(4, 1) (4, 1)
+switchcaseslope = TRUE
+(1, 4) (1, 4)
+point[0]:point: 4, 1 actual: 4.000000, -nan
+(4, 1) (4, 2)
+switchcaseslope = TRUE
+(1, 4) (2, 4)
+point[0]:point: 4, 1 actual: 4.000000, -nan
+point[1]:point: 4, 2 actual: 4.000000, -nan
+(4, 1) (4, 3)
+switchcaseslope = TRUE
+(1, 4) (3, 4)
+point[0]:point: 4, 1 actual: 4.000000, -nan
+point[1]:point: 4, 2 actual: 4.000000, -nan
+point[2]:point: 4, 3 actual: 4.000000, -nan
+(4, 1) (4, 4)
+switchcaseslope = TRUE
+(1, 4) (4, 4)
+point[0]:point: 4, 1 actual: 4.000000, -nan
+point[1]:point: 4, 2 actual: 4.000000, -nan
+point[2]:point: 4, 3 actual: 4.000000, -nan
+point[3]:point: 4, 4 actual: 4.000000, -nan
+(4, 2) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 2)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 2.000000, 1.000000
+point[3]:point: 3, 1 actual: 2.000000, 1.000000
+point[4]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 2)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 2 
+point: 2, 1 actual: 0.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 2 
+point: 3, 1 actual: 0.000000, 1.000000
+point[4]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 4) (2, 0)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 2 
+point: 0, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 2 
+point: 1, 2 actual: 4.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 2 
+point: 2, 2 actual: 4.000000, 2.000000
+point[3]:point: 3, 2 actual: 4.000000, 2.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 4 ) ) + 2 
+point: 4, 3 actual: 0.000000, 3.000000
+(4, 2) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 2 
+point: 0, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 2 
+point: 1, 2 actual: 4.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 3 actual: 2.000000, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 0.000000 - 4 ) ) + 2 
+point: 4, 4 actual: 0.000000, 4.000000
+(4, 2) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 0) (4, 2)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 0 actual: 1.000000, 0.000000
+point[2]:point: 3, 1 actual: 2.500000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 4 ) ) + 2 
+point: 4, 1 actual: 2.500000, 1.000000
+(4, 2) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 2)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 2 
+point: 3, 1 actual: 1.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 2 
+point: 4, 1 actual: 1.000000, 1.000000
+(4, 2) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 4) (2, 1)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 2 
+point: 1, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 2 
+point: 2, 2 actual: 4.000000, 2.000000
+point[2]:point: 3, 2 actual: 4.000000, 2.000000
+point[3]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 2 
+point: 1, 2 actual: 4.000000, 2.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 4.000000 - 4 ) ) + 2 
+point: 2, 2 actual: 4.000000, 2.000000
+point[2]:point: 3, 3 actual: 2.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( -0.666667 * ( 2.500000 - 4 ) ) + 2 
+point: 4, 3 actual: 2.500000, 3.000000
+(4, 2) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (2, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 1.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 1) (4, 2)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 1 actual: 2.000000, 1.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 4) (2, 2)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 2) (4, 3)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 2 
+point: 2, 2 actual: 4.000000, 2.000000
+point[1]:point: 3, 2 actual: 4.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 4 ) ) + 2 
+point: 4, 3 actual: 2.000000, 3.000000
+(4, 2) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 2.000000 - 4 ) ) + 2 
+point: 2, 2 actual: 2.000000, 4.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -1.000000 * ( 4.000000 - 4 ) ) + 2 
+point: 4, 4 actual: 4.000000, 2.000000
+(4, 2) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (2, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (2, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 4) (2, 3)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (3, 4)
+point[0]:point: 3, 2 actual: 3.000000, 3.000000
+point[1]:point: 4, 3 actual: 4.000000, 2.000000
+(4, 2) (3, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 3.000000 - 4 ) ) + 2 
+point: 3, 2 actual: 3.000000, 4.000000
+point[1]:point: 3, 3 actual: 3.000000, 4.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -2.000000 * ( 4.000000 - 4 ) ) + 2 
+point: 4, 4 actual: 4.000000, 2.000000
+(4, 2) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 2) (4, 0)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 2) (4, 1)
+point[0]:point: 4, 2 actual: 4.000000, 2.000000
+(4, 2) (4, 2)
+switchcaseslope = TRUE
+(2, 4) (2, 4)
+point[0]:point: 4, 2 actual: 4.000000, -nan
+(4, 2) (4, 3)
+switchcaseslope = TRUE
+(2, 4) (3, 4)
+point[0]:point: 4, 2 actual: 4.000000, -nan
+point[1]:point: 4, 3 actual: 4.000000, -nan
+(4, 2) (4, 4)
+switchcaseslope = TRUE
+(2, 4) (4, 4)
+point[0]:point: 4, 2 actual: 4.000000, -nan
+point[1]:point: 4, 3 actual: 4.000000, -nan
+point[2]:point: 4, 4 actual: 4.000000, -nan
+(4, 3) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 0) (4, 3)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 0 actual: 0.000000, 0.000000
+point[2]:point: 2, 1 actual: 1.333333, 1.000000
+point[3]:point: 3, 2 actual: 2.666667, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 3)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 2 actual: 2.000000, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 3)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 3 
+point: 2, 2 actual: 0.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 3 
+point: 3, 2 actual: 0.000000, 2.000000
+point[4]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 4) (3, 0)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 3 
+point: 0, 3 actual: 4.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 3 
+point: 1, 3 actual: 4.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 4.000000 - 4 ) ) + 3 
+point: 2, 3 actual: 4.000000, 3.000000
+point[3]:point: 3, 3 actual: 4.000000, 3.000000
+point[4]:### ERROR checkplotlinefloat ### equation: ( -0.250000 * ( 0.000000 - 4 ) ) + 3 
+point: 4, 4 actual: 0.000000, 4.000000
+(4, 3) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (3, 4)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 1.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 1) (4, 3)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 1 actual: 1.000000, 1.000000
+point[2]:point: 3, 2 actual: 2.500000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 4 ) ) + 3 
+point: 4, 2 actual: 2.500000, 2.000000
+(4, 3) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 3)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 3 
+point: 3, 2 actual: 1.000000, 2.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 3 
+point: 4, 2 actual: 1.000000, 2.000000
+(4, 3) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 4) (3, 1)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 3 
+point: 1, 3 actual: 4.000000, 3.000000
+point[1]:### ERROR checkplotlinefloat ### equation: ( -0.333333 * ( 4.000000 - 4 ) ) + 3 
+point: 2, 3 actual: 4.000000, 3.000000
+point[2]:point: 3, 3 actual: 4.000000, 3.000000
+point[3]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (3, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 1.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 3.000000 - 4 ) ) + 3 
+point: 3, 3 actual: 3.000000, 1.500000
+(4, 3) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (3, 4)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 2.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 2) (4, 3)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 2 actual: 2.000000, 2.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 4) (3, 2)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (4, 4)
+point[0]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 4.000000 - 4 ) ) + 3 
+point: 2, 3 actual: 4.000000, 3.000000
+point[1]:point: 3, 3 actual: 4.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( -0.500000 * ( 2.000000 - 4 ) ) + 3 
+point: 4, 4 actual: 2.000000, 4.000000
+(4, 3) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (3, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 4 ) ) + 3 
+point: 3, 2 actual: 3.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 4 ) ) + 3 
+point: 3, 3 actual: 3.000000, 0.000000
+(4, 3) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (3, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+point[2]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (3, 4)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+point[1]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 4) (3, 3)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (3, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (4, 4)
+point[0]:point: 3, 3 actual: 3.000000, 4.000000
+point[1]:point: 4, 4 actual: 4.000000, 3.000000
+(4, 3) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 3) (4, 0)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 3) (4, 1)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 3) (4, 2)
+point[0]:point: 4, 3 actual: 4.000000, 3.000000
+(4, 3) (4, 3)
+switchcaseslope = TRUE
+(3, 4) (3, 4)
+point[0]:point: 4, 3 actual: 4.000000, -nan
+(4, 3) (4, 4)
+switchcaseslope = TRUE
+(3, 4) (4, 4)
+point[0]:point: 4, 3 actual: 4.000000, -nan
+point[1]:point: 4, 4 actual: 4.000000, -nan
+(4, 4) (0, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 0) (4, 4)
+point[0]:point: 0, 0 actual: 0.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 1.000000
+point[2]:point: 2, 2 actual: 2.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (0, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 1) (4, 4)
+point[0]:point: 0, 1 actual: 0.000000, 1.000000
+point[1]:point: 1, 1 actual: 0.000000, 1.000000
+point[2]:point: 2, 2 actual: 1.333333, 2.000000
+point[3]:point: 3, 3 actual: 2.666667, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (0, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 2) (4, 4)
+point[0]:point: 0, 2 actual: 0.000000, 2.000000
+point[1]:point: 1, 2 actual: 0.000000, 2.000000
+point[2]:point: 2, 3 actual: 2.000000, 3.000000
+point[3]:point: 3, 3 actual: 2.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (0, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(0, 3) (4, 4)
+point[0]:point: 0, 3 actual: 0.000000, 3.000000
+point[1]:point: 1, 3 actual: 0.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 4 
+point: 2, 3 actual: 0.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.250000 * ( 0.000000 - 4 ) ) + 4 
+point: 3, 3 actual: 0.000000, 3.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (0, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 4) (4, 0)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (1, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 1) (4, 4)
+point[0]:point: 1, 0 actual: 1.000000, 0.000000
+point[1]:point: 1, 1 actual: 1.000000, 0.000000
+point[2]:point: 2, 2 actual: 2.000000, 1.333333
+point[3]:point: 3, 3 actual: 3.000000, 2.666667
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (1, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 1) (4, 4)
+point[0]:point: 1, 1 actual: 1.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 2.000000
+point[2]:point: 3, 3 actual: 3.000000, 3.000000
+point[3]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (1, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 2) (4, 4)
+point[0]:point: 1, 2 actual: 1.000000, 2.000000
+point[1]:point: 2, 2 actual: 1.000000, 2.000000
+point[2]:point: 3, 3 actual: 2.500000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.666667 * ( 2.500000 - 4 ) ) + 4 
+point: 4, 3 actual: 2.500000, 3.000000
+(4, 4) (1, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(1, 3) (4, 4)
+point[0]:point: 1, 3 actual: 1.000000, 3.000000
+point[1]:point: 2, 3 actual: 1.000000, 3.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 4 
+point: 3, 3 actual: 1.000000, 3.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 0.333333 * ( 1.000000 - 4 ) ) + 4 
+point: 4, 3 actual: 1.000000, 3.000000
+(4, 4) (1, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 4) (4, 1)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (2, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 2) (4, 4)
+point[0]:point: 2, 0 actual: 2.000000, 0.000000
+point[1]:point: 2, 1 actual: 2.000000, 0.000000
+point[2]:point: 3, 2 actual: 3.000000, 2.000000
+point[3]:point: 3, 3 actual: 3.000000, 2.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (2, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 2) (4, 4)
+point[0]:point: 2, 1 actual: 2.000000, 1.000000
+point[1]:point: 2, 2 actual: 2.000000, 1.000000
+point[2]:point: 3, 3 actual: 3.000000, 2.500000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 1.500000 * ( 3.000000 - 4 ) ) + 4 
+point: 3, 4 actual: 3.000000, 2.500000
+(4, 4) (2, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 2) (4, 4)
+point[0]:point: 2, 2 actual: 2.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 3.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (2, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(2, 3) (4, 4)
+point[0]:point: 2, 3 actual: 2.000000, 3.000000
+point[1]:point: 3, 3 actual: 2.000000, 3.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (2, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 4) (4, 2)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (3, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(0, 3) (4, 4)
+point[0]:point: 3, 0 actual: 3.000000, 0.000000
+point[1]:point: 3, 1 actual: 3.000000, 0.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 3.000000 - 4 ) ) + 4 
+point: 3, 2 actual: 3.000000, 0.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 4.000000 * ( 3.000000 - 4 ) ) + 4 
+point: 3, 3 actual: 3.000000, 0.000000
+point[4]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (3, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(1, 3) (4, 4)
+point[0]:point: 3, 1 actual: 3.000000, 1.000000
+point[1]:point: 3, 2 actual: 3.000000, 1.000000
+point[2]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 4 ) ) + 4 
+point: 3, 3 actual: 3.000000, 1.000000
+point[3]:### ERROR checkplotlinefloat ### equation: ( 3.000000 * ( 3.000000 - 4 ) ) + 4 
+point: 3, 4 actual: 3.000000, 1.000000
+(4, 4) (3, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(2, 3) (4, 4)
+point[0]:point: 3, 2 actual: 3.000000, 2.000000
+point[1]:point: 3, 3 actual: 3.000000, 2.000000
+point[2]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (3, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(3, 3) (4, 4)
+point[0]:point: 3, 3 actual: 3.000000, 3.000000
+point[1]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (3, 4)
+can not plot this line, line points in wrong direction
+switchcaseslope = TRUE
+(4, 4) (4, 3)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (4, 0)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 4) (4, 0)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (4, 1)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 4) (4, 1)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (4, 2)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 4) (4, 2)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (4, 3)
+can not plot this line, line points in wrong direction
+switchcaseslope = FALSE
+(4, 4) (4, 3)
+point[0]:point: 4, 4 actual: 4.000000, 4.000000
+(4, 4) (4, 4)
+switchcaseslope = TRUE
+(4, 4) (4, 4)
+point[0]:point: 4, 4 actual: 4.000000, -nan
