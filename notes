@@ -1,0 +1,60 @@
+
+-cdds_geometry_primitive
+--properties
+----
+--internals
+----gboolean selectedpoint
+----gboolean selectedline
+----gboolean selectedobject
+----zdepth
+
+|
+|
+--cdds_geometry_point
+----properties
+------gint point_x
+------gint point_y
+----internals
+------
+----pointers
+------cdds_geometry_primitive
+------cdds_geometry_point_array
+|
+|
+--cdds_geometry_point_array
+----internals
+------garray cdds_geometry_point
+----pointers
+------cdds_geometry_primitive
+|
+|
+cdds_geometry_line
+----properties
+------
+----internals
+------gdouble rise
+------gdouble run
+------int boundingbox_width
+------int boundingbox_height
+----pointers
+------cdds_geometry_point* a;
+------cdds_geometry_point* b;
+------cdds_geometry_primitive
+------cdds_geometry_line_array
+|
+|
+cdds_geometry_line_array
+----properties
+------
+----internals
+------int boundingbox_x
+------int boundingbox_y
+------int boundingbox_width
+------int boundingbox_height
+----pointers
+------cdds_geometry_primitive
+|
+|
+--cdds_geometry_selection
+----garray cdds_geometry_primitive
+----
