@@ -3,7 +3,7 @@ Self-interest GNU/GTK C project used for showing competency to job recruiters
 
 
 
-Requirements:
+# Requirements:
 
 
 Gnu Scientific Library (GSL)
@@ -17,7 +17,7 @@ GTK+ / GIMP Toolkit
 
 
 
-To Run:
+# To Run:
 
 
 cmake .
