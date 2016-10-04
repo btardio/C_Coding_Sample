@@ -5,9 +5,13 @@ Self-interest GNU/GTK C project used for showing competency to job recruiters
 
 Requirements:
 
+
 Gnu Scientific Library (GSL)
+
 Cairo Graphics Library
+
 GTK+ / GIMP Toolkit
+
 
 
 
